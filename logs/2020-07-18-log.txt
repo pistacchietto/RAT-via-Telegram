@@ -1,0 +1,65 @@
+
+2020-07-18 20:33:41 - Info: Starting
+2020-07-18 20:33:41 - SUCCESS: Setup done
+2020-07-18 20:33:41 - Info: Starting
+2020-07-18 20:33:41 - SUCCESS: Started
+2020-07-18 20:33:41 - Info: Listening for commands on DESKTOP-U15DJ5J...
+2020-07-18 20:34:21 - Notice: Command /pc_info ran
+2020-07-18 20:34:32 - Notice: Command /pc_info ran
+2020-07-18 20:34:42 - Notice: Command /pc_info ran
+2020-07-18 20:34:52 - Notice: Command /pc_info ran
+2020-07-18 20:35:03 - Notice: Command /pc_info ran
+2020-07-18 20:35:13 - Notice: Command /pc_info ran
+2020-07-18 21:30:42 - Info: Starting
+2020-07-18 21:30:42 - SUCCESS: Setup done
+2020-07-18 21:30:42 - Info: Starting
+2020-07-18 21:30:42 - SUCCESS: Started
+2020-07-18 21:30:42 - Info: Listening for commands on DESKTOP-U15DJ5J...
+2020-07-18 21:30:42 - Warning: Command exec prep
+2020-07-18 21:30:42 - Warning: Executing the command  vol
+2020-07-18 21:30:42 - ERROR: BOT MISUSE: Unknown error running command or function.
+2020-07-18 21:30:42 - SPAM: Details from previous errorstring argument without an encoding
+2020-07-18 21:30:42 - Notice: Command  vol ran
+2020-07-18 21:30:42 - Notice: Command /cmd_exec vol ran
+2020-07-18 21:30:53 - Warning: Command exec prep
+2020-07-18 21:30:53 - Warning: Executing the command  vol
+2020-07-18 21:30:53 - ERROR: BOT MISUSE: Unknown error running command or function.
+2020-07-18 21:30:53 - SPAM: Details from previous errorstring argument without an encoding
+2020-07-18 21:30:53 - Notice: Command  vol ran
+2020-07-18 21:30:53 - Notice: Command /cmd_exec vol ran
+2020-07-18 21:31:03 - Warning: Command exec prep
+2020-07-18 21:31:03 - Warning: Executing the command  vol
+2020-07-18 21:31:03 - ERROR: BOT MISUSE: Unknown error running command or function.
+2020-07-18 21:31:03 - SPAM: Details from previous errorstring argument without an encoding
+2020-07-18 21:31:03 - Notice: Command  vol ran
+2020-07-18 21:31:03 - Notice: Command /cmd_exec vol ran
+2020-07-18 21:31:14 - Warning: Command exec prep
+2020-07-18 21:31:14 - Warning: Executing the command  vol
+2020-07-18 21:31:14 - ERROR: BOT MISUSE: Unknown error running command or function.
+2020-07-18 21:31:14 - SPAM: Details from previous errorstring argument without an encoding
+2020-07-18 21:31:14 - Notice: Command  vol ran
+2020-07-18 21:31:14 - Notice: Command /cmd_exec vol ran
+2020-07-18 21:31:24 - Warning: Command exec prep
+2020-07-18 21:31:24 - Warning: Executing the command  vol
+2020-07-18 21:31:24 - ERROR: BOT MISUSE: Unknown error running command or function.
+2020-07-18 21:31:24 - SPAM: Details from previous errorstring argument without an encoding
+2020-07-18 21:31:24 - Notice: Command  vol ran
+2020-07-18 21:31:24 - Notice: Command /cmd_exec vol ran
+2020-07-18 21:31:35 - Warning: Command exec prep
+2020-07-18 21:31:35 - Warning: Executing the command  vol
+2020-07-18 21:31:35 - ERROR: BOT MISUSE: Unknown error running command or function.
+2020-07-18 21:31:35 - SPAM: Details from previous errorstring argument without an encoding
+2020-07-18 21:31:35 - Notice: Command  vol ran
+2020-07-18 21:31:35 - Notice: Command /cmd_exec vol ran
+2020-07-18 21:31:45 - Warning: Command exec prep
+2020-07-18 21:31:45 - Warning: Executing the command  vol
+2020-07-18 21:31:45 - ERROR: BOT MISUSE: Unknown error running command or function.
+2020-07-18 21:31:45 - SPAM: Details from previous errorstring argument without an encoding
+2020-07-18 21:31:45 - Notice: Command  vol ran
+2020-07-18 21:31:45 - Notice: Command /cmd_exec vol ran
+2020-07-18 21:31:55 - Warning: Command exec prep
+2020-07-18 21:31:56 - Warning: Executing the command  vol
+2020-07-18 21:31:56 - ERROR: BOT MISUSE: Unknown error running command or function.
+2020-07-18 21:31:56 - SPAM: Details from previous errorstring argument without an encoding
+2020-07-18 21:31:56 - Notice: Command  vol ran
+2020-07-18 21:31:56 - Notice: Command /cmd_exec vol ran

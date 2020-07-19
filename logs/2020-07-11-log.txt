@@ -1,0 +1,23 @@
+
+2020-07-11 13:53:46 - Info: Starting
+2020-07-11 13:53:46 - SUCCESS: Setup done
+2020-07-11 13:53:46 - Info: Starting
+2020-07-11 13:53:46 - SUCCESS: Started
+2020-07-11 13:53:46 - Info: Listening for commands on DESKTOP-U15DJ5J...
+2020-07-11 17:36:44 - Notice: Command /help ran
+2020-07-11 17:39:40 - Notice: Command /pc_info ran
+2020-07-11 17:41:20 - Notice: Command /pc_info ran
+2020-07-11 17:42:46 - Notice: Command /pc_info ran
+2020-07-11 17:50:00 - Notice: Command /pc_info ran
+2020-07-11 19:04:10 - Info: Starting
+2020-07-11 19:04:10 - SUCCESS: Setup done
+2020-07-11 19:04:10 - Info: Starting
+2020-07-11 19:04:10 - SUCCESS: Started
+2020-07-11 19:04:10 - Info: Listening for commands on DESKTOP-U15DJ5J...
+2020-07-11 19:07:09 - Notice: Command /pc_info ran
+2020-07-11 20:39:35 - Notice: Command  LENOVO_PC /pc_info ran
+2020-07-11 20:39:59 - Notice: Command /help ran
+2020-07-11 20:43:05 - Notice: Command /pc_info ran
+2020-07-11 20:49:14 - Notice: Command /pc_info ran
+2020-07-11 20:49:44 - Notice: Command  LENOVO_PC /pc_info ran
+2020-07-11 20:50:44 - Notice: Command /pc_info ran

@@ -1,0 +1,29 @@
+
+2020-07-09 10:33:11 - Info: Starting
+2020-07-09 10:33:11 - SUCCESS: Setup done
+2020-07-09 10:33:11 - Info: Starting
+2020-07-09 10:33:11 - SUCCESS: Started
+2020-07-09 10:33:11 - Info: Listening for commands on DESKTOP-U15DJ5J...
+2020-07-09 10:34:01 - Info: Starting
+2020-07-09 10:34:01 - SUCCESS: Setup done
+2020-07-09 10:34:01 - Info: Starting
+2020-07-09 10:34:01 - SUCCESS: Started
+2020-07-09 10:34:01 - Info: Listening for commands on DESKTOP-U15DJ5J...
+2020-07-09 10:38:23 - Info: Starting
+2020-07-09 10:38:23 - SUCCESS: Setup done
+2020-07-09 10:38:23 - Info: Starting
+2020-07-09 10:38:23 - SUCCESS: Started
+2020-07-09 10:38:23 - Info: Listening for commands on DESKTOP-U15DJ5J...
+2020-07-09 10:38:47 - Notice: Command /help ran
+2020-07-09 10:41:04 - Notice: Command /pc_info ran
+2020-07-09 13:59:57 - Info: Starting
+2020-07-09 13:59:57 - SUCCESS: Setup done
+2020-07-09 13:59:57 - Info: Starting
+2020-07-09 13:59:57 - SUCCESS: Started
+2020-07-09 13:59:57 - Info: Listening for commands on DESKTOP-U15DJ5J...
+2020-07-09 15:17:18 - Info: Starting
+2020-07-09 15:17:18 - SUCCESS: Setup done
+2020-07-09 15:17:18 - Info: Starting
+2020-07-09 15:17:18 - SUCCESS: Started
+2020-07-09 15:17:18 - Info: Listening for commands on DESKTOP-U15DJ5J...
+2020-07-09 15:17:45 - Notice: Command /pc_info ran
