@@ -1410,3 +1410,203 @@
 2020-07-19 16:16:39 - Info: Starting
 2020-07-19 16:16:39 - SUCCESS: Started
 2020-07-19 16:16:39 - Info: Listening for commands on DESKTOP-U15DJ5J...
+2020-07-19 20:44:54 - Info: Starting
+2020-07-19 20:44:54 - SUCCESS: Setup done
+2020-07-19 20:44:54 - Info: Starting
+2020-07-19 20:44:54 - SUCCESS: Started
+2020-07-19 20:44:54 - Info: Listening for commands on DESKTOP-U15DJ5J...
+2020-07-19 20:45:25 - Notice: Command /pc_info ran
+2020-07-19 20:45:35 - Notice: Command /pc_info ran
+2020-07-19 20:45:46 - Notice: Command /pc_info ran
+2020-07-19 20:47:22 - Info: Starting
+2020-07-19 20:47:22 - SUCCESS: Setup done
+2020-07-19 20:47:22 - Info: Starting
+2020-07-19 20:47:22 - SUCCESS: Started
+2020-07-19 20:47:22 - Info: Listening for commands on DESKTOP-U15DJ5J...
+2020-07-19 20:47:33 - Notice: Command /pc_info ran
+2020-07-19 20:47:43 - Notice: Command /pc_info ran
+2020-07-19 20:50:09 - Info: Starting
+2020-07-19 20:50:09 - SUCCESS: Setup done
+2020-07-19 20:50:09 - Info: Starting
+2020-07-19 20:50:09 - SUCCESS: Started
+2020-07-19 20:50:09 - Info: Listening for commands on DESKTOP-U15DJ5J...
+2020-07-19 20:50:23 - ERROR: BOT MISUSE: Unknown error running command or function.
+2020-07-19 20:50:23 - ERROR: Details from previous errorname 'TotalAmount' is not defined
+2020-07-19 20:50:23 - Notice: Command /pc_info ran
+2020-07-19 20:50:33 - ERROR: BOT MISUSE: Unknown error running command or function.
+2020-07-19 20:50:33 - ERROR: Details from previous errorname 'TotalAmount' is not defined
+2020-07-19 20:50:33 - Notice: Command /pc_info ran
+2020-07-19 20:50:43 - ERROR: BOT MISUSE: Unknown error running command or function.
+2020-07-19 20:50:43 - ERROR: Details from previous errorname 'TotalAmount' is not defined
+2020-07-19 20:50:43 - Notice: Command /pc_info ran
+2020-07-19 20:51:28 - Info: Starting
+2020-07-19 20:51:28 - SUCCESS: Setup done
+2020-07-19 20:51:28 - Info: Starting
+2020-07-19 20:51:28 - SUCCESS: Started
+2020-07-19 20:51:28 - Info: Listening for commands on DESKTOP-U15DJ5J...
+2020-07-19 20:51:28 - Notice: Command /pc_info ran
+2020-07-19 20:51:39 - Notice: Command /pc_info ran
+2020-07-19 20:51:49 - Notice: Command /pc_info ran
+2020-07-19 23:19:36 - Info: Starting
+2020-07-19 23:19:36 - SUCCESS: Setup done
+2020-07-19 23:19:36 - Info: Starting
+2020-07-19 23:19:36 - SUCCESS: Started
+2020-07-19 23:19:36 - Info: Listening for commands on DESKTOP-U15DJ5J...
+2020-07-19 23:20:17 - Notice: Command /start ran
+2020-07-19 23:20:27 - Notice: Command /start ran
+2020-07-19 23:20:27 - Notice: Command /pc_info ran
+2020-07-19 23:20:37 - Notice: Command /start ran
+2020-07-19 23:20:37 - Notice: Command /pc_info ran
+2020-07-19 23:20:48 - Notice: Command /start ran
+2020-07-19 23:20:48 - Notice: Command /pc_info ran
+2020-07-19 23:20:58 - Notice: Command /start ran
+2020-07-19 23:20:58 - Notice: Command /pc_info ran
+2020-07-19 23:21:09 - Notice: Command /start ran
+2020-07-19 23:21:09 - Notice: Command /pc_info ran
+2020-07-19 23:21:19 - Notice: Command /start ran
+2020-07-19 23:21:19 - Notice: Command /pc_info ran
+2020-07-19 23:21:30 - Notice: Command /start ran
+2020-07-19 23:21:30 - Notice: Command /pc_info ran
+2020-07-19 23:21:40 - Notice: Command /start ran
+2020-07-19 23:21:40 - Notice: Command /pc_info ran
+2020-07-19 23:21:50 - Notice: Command /start ran
+2020-07-19 23:21:51 - Notice: Command /pc_info ran
+2020-07-19 23:22:01 - Notice: Command /start ran
+2020-07-19 23:22:01 - Notice: Command /pc_info ran
+2020-07-19 23:22:11 - Notice: Command /start ran
+2020-07-19 23:22:12 - Notice: Command /pc_info ran
+2020-07-19 23:22:22 - Notice: Command /start ran
+2020-07-19 23:22:22 - Notice: Command /pc_info ran
+2020-07-19 23:22:32 - Notice: Command /start ran
+2020-07-19 23:22:33 - Notice: Command /pc_info ran
+2020-07-19 23:22:43 - Notice: Command /start ran
+2020-07-19 23:22:43 - Notice: Command /pc_info ran
+2020-07-19 23:22:53 - Notice: Command /start ran
+2020-07-19 23:22:53 - Notice: Command /pc_info ran
+2020-07-19 23:23:04 - Notice: Command /start ran
+2020-07-19 23:23:04 - Notice: Command /pc_info ran
+2020-07-19 23:23:14 - Notice: Command /start ran
+2020-07-19 23:23:14 - Notice: Command /pc_info ran
+2020-07-19 23:28:30 - Notice: Command /start ran
+2020-07-19 23:28:40 - Notice: Command /start ran
+2020-07-19 23:28:40 - Notice: Command /pc_info ran
+2020-07-19 23:28:51 - Notice: Command /start ran
+2020-07-19 23:28:51 - Notice: Command /pc_info ran
+2020-07-19 23:29:01 - Notice: Command /start ran
+2020-07-19 23:29:01 - Notice: Command /pc_info ran
+2020-07-19 23:29:12 - Notice: Command /start ran
+2020-07-19 23:29:12 - Notice: Command /pc_info ran
+2020-07-19 23:29:22 - Notice: Command /start ran
+2020-07-19 23:29:23 - Notice: Command /pc_info ran
+2020-07-19 23:29:48 - Info: Starting
+2020-07-19 23:29:48 - SUCCESS: Setup done
+2020-07-19 23:29:48 - Info: Starting
+2020-07-19 23:29:48 - SUCCESS: Started
+2020-07-19 23:29:48 - Info: Listening for commands on DESKTOP-U15DJ5J...
+2020-07-19 23:29:48 - Notice: Command /start ran
+2020-07-19 23:29:49 - Notice: Command /pc_info ran
+2020-07-19 23:35:24 - Info: Starting
+2020-07-19 23:35:24 - SUCCESS: Setup done
+2020-07-19 23:35:24 - Info: Starting
+2020-07-19 23:35:24 - SUCCESS: Started
+2020-07-19 23:35:24 - Info: Listening for commands on DESKTOP-U15DJ5J...
+2020-07-19 23:35:24 - Notice: Command /start ran
+2020-07-19 23:35:24 - Notice: Command /pc_info ran
+2020-07-19 23:37:04 - Notice: Command /start ran
+2020-07-19 23:37:05 - Notice: Command /pc_info ran
+2020-07-19 23:37:05 - Notice: Command /start ran
+2020-07-19 23:37:05 - Notice: Command /pc_info ran
+2020-07-19 23:38:45 - Notice: Command /start ran
+2020-07-19 23:38:46 - Notice: Command /pc_info ran
+2020-07-19 23:38:46 - Notice: Command /start ran
+2020-07-19 23:38:46 - Notice: Command /pc_info ran
+2020-07-19 23:44:00 - Info: Starting
+2020-07-19 23:44:00 - SUCCESS: Setup done
+2020-07-19 23:44:00 - Info: Starting
+2020-07-19 23:44:00 - SUCCESS: Started
+2020-07-19 23:44:00 - Info: Listening for commands on DESKTOP-U15DJ5J...
+2020-07-19 23:44:00 - Notice: Command /start ran
+2020-07-19 23:44:00 - Notice: Command /pc_info ran
+2020-07-19 23:44:01 - Notice: Command /start ran
+2020-07-19 23:44:01 - Notice: Command /pc_info ran
+2020-07-19 23:45:41 - Notice: Command /start ran
+2020-07-19 23:45:41 - Notice: Command /pc_info ran
+2020-07-19 23:47:22 - Notice: Command /start ran
+2020-07-19 23:47:22 - ERROR: BOT MISUSE: Unknown error running command or function.
+2020-07-19 23:47:22 - ERROR: Details from previous error[Errno 2] No such file or directory: 'nome'
+2020-07-19 23:47:22 - Notice: Command /pc_info ran
+2020-07-19 23:48:23 - Info: Starting
+2020-07-19 23:48:23 - SUCCESS: Setup done
+2020-07-19 23:48:23 - Info: Starting
+2020-07-19 23:48:23 - SUCCESS: Started
+2020-07-19 23:48:23 - Info: Listening for commands on DESKTOP-U15DJ5J...
+2020-07-19 23:48:23 - Notice: Command /start ran
+2020-07-19 23:48:23 - Notice: Command /pc_info ran
+2020-07-19 23:49:27 - Info: Starting
+2020-07-19 23:49:27 - SUCCESS: Setup done
+2020-07-19 23:49:27 - Info: Starting
+2020-07-19 23:49:27 - SUCCESS: Started
+2020-07-19 23:49:27 - Info: Listening for commands on DESKTOP-U15DJ5J...
+2020-07-19 23:49:27 - Notice: Command /start ran
+2020-07-19 23:49:28 - Notice: Command /pc_info ran
+2020-07-19 23:50:18 - Notice: Command /start ran
+2020-07-19 23:50:18 - Notice: Command /pc_info ran
+2020-07-19 23:51:08 - Notice: Command /start ran
+2020-07-19 23:51:08 - Notice: Command /pc_info ran
+2020-07-19 23:51:40 - Info: Starting
+2020-07-19 23:51:40 - SUCCESS: Setup done
+2020-07-19 23:51:40 - Info: Starting
+2020-07-19 23:51:40 - SUCCESS: Started
+2020-07-19 23:51:40 - Info: Listening for commands on DESKTOP-U15DJ5J...
+2020-07-19 23:51:40 - Notice: Command /start ran
+2020-07-19 23:51:40 - Notice: Command /pc_info ran
+2020-07-19 23:52:31 - Notice: Command /start ran
+2020-07-19 23:52:31 - Notice: Command /pc_info ran
+2020-07-19 23:52:51 - Info: Starting
+2020-07-19 23:52:51 - SUCCESS: Setup done
+2020-07-19 23:52:51 - Info: Starting
+2020-07-19 23:52:51 - SUCCESS: Started
+2020-07-19 23:52:51 - Info: Listening for commands on DESKTOP-U15DJ5J...
+2020-07-19 23:52:51 - Notice: Command /start ran
+2020-07-19 23:52:52 - Notice: Command /pc_info ran
+2020-07-19 23:53:18 - Info: Starting
+2020-07-19 23:53:18 - SUCCESS: Setup done
+2020-07-19 23:53:18 - Info: Starting
+2020-07-19 23:53:18 - SUCCESS: Started
+2020-07-19 23:53:18 - Info: Listening for commands on DESKTOP-U15DJ5J...
+2020-07-19 23:53:18 - Notice: Command /start ran
+2020-07-19 23:53:18 - Notice: Command /pc_info ran
+2020-07-19 23:54:09 - Notice: Command /start ran
+2020-07-19 23:54:09 - Notice: Command /pc_info ran
+2020-07-19 23:54:59 - Notice: Command /start ran
+2020-07-19 23:54:59 - Notice: Command /pc_info ran
+2020-07-19 23:55:50 - Notice: Command /start ran
+2020-07-19 23:55:50 - Notice: Command /pc_info ran
+2020-07-19 23:56:40 - Notice: Command /start ran
+2020-07-19 23:56:40 - Notice: Command /pc_info ran
+2020-07-19 23:57:31 - Notice: Command /start ran
+2020-07-19 23:57:31 - Notice: Command /pc_info ran
+2020-07-19 23:58:04 - Info: Starting
+2020-07-19 23:58:04 - SUCCESS: Setup done
+2020-07-19 23:58:04 - Info: Starting
+2020-07-19 23:58:04 - SUCCESS: Started
+2020-07-19 23:58:04 - Info: Listening for commands on DESKTOP-U15DJ5J...
+2020-07-19 23:58:04 - Notice: Command /start ran
+2020-07-19 23:58:05 - Notice: Command /pc_info ran
+2020-07-19 23:58:55 - Notice: Command /start ran
+2020-07-19 23:59:45 - Notice: Command /start ran
+2020-07-19 23:59:46 - ERROR: BOT MISUSE: Unknown error running command or function.
+2020-07-19 23:59:46 - ERROR: Details from previous errorlocal variable 'snome' referenced before assignment
+2020-07-19 23:59:46 - Notice: Command  asus-dave /cmd vol ran
+2020-07-20 00:00:36 - Notice: Command /start ran
+2020-07-20 00:00:36 - ERROR: BOT MISUSE: Unknown error running command or function.
+2020-07-20 00:00:36 - ERROR: Details from previous errorlocal variable 'snome' referenced before assignment
+2020-07-20 00:00:36 - Notice: Command  asus-dave /cmd vol ran
+2020-07-20 00:01:26 - Notice: Command /start ran
+2020-07-20 00:01:27 - ERROR: BOT MISUSE: Unknown error running command or function.
+2020-07-20 00:01:27 - ERROR: Details from previous errorlocal variable 'snome' referenced before assignment
+2020-07-20 00:01:27 - Notice: Command  asus-dave /cmd vol ran
+2020-07-20 00:02:17 - Notice: Command /start ran
+2020-07-20 00:02:17 - ERROR: BOT MISUSE: Unknown error running command or function.
+2020-07-20 00:02:17 - ERROR: Details from previous errorlocal variable 'snome' referenced before assignment
+2020-07-20 00:02:17 - Notice: Command  asus-dave /cmd vol ran
